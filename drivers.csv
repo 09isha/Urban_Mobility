@@ -1,0 +1,3001 @@
+driver_id,city,join_date,experience_months,vehicle_type
+D00001,Capital City,2022-07-04,6,Standard
+D00002,Capital City,2020-02-09,35,Standard
+D00003,Metroville,2021-10-20,14,Premium
+D00004,Capital City,2022-12-26,0,Standard
+D00005,Capital City,2020-07-26,29,Standard
+D00006,Metroville,2022-08-17,4,XL
+D00007,Capital City,2020-04-02,33,Premium
+D00008,Metroville,2021-10-31,14,XL
+D00009,Metroville,2022-01-02,12,Standard
+D00010,Capital City,2022-10-14,2,Standard
+D00011,Capital City,2020-08-28,28,Standard
+D00012,Metroville,2021-07-12,17,Premium
+D00013,Capital City,2020-11-14,25,Standard
+D00014,Metroville,2021-09-08,16,XL
+D00015,Metroville,2021-01-17,23,Standard
+D00016,Capital City,2020-04-15,33,Standard
+D00017,Capital City,2020-01-11,36,Premium
+D00018,Capital City,2021-12-29,12,Standard
+D00019,Capital City,2021-04-27,20,Standard
+D00020,Metroville,2021-09-14,15,Standard
+D00021,Metroville,2021-05-13,19,Standard
+D00022,Metroville,2020-04-13,33,Standard
+D00023,Metroville,2020-04-03,33,Premium
+D00024,Metroville,2020-10-20,26,XL
+D00025,Metroville,2020-12-31,24,Electric
+D00026,Metroville,2020-04-21,32,Electric
+D00027,Metroville,2021-05-06,20,Electric
+D00028,Metroville,2022-06-18,6,Premium
+D00029,Capital City,2021-10-10,14,Standard
+D00030,Metroville,2022-05-16,7,XL
+D00031,Metroville,2021-05-23,19,Standard
+D00032,Capital City,2020-08-25,28,Standard
+D00033,Capital City,2020-06-30,30,Standard
+D00034,Metroville,2021-03-06,22,Standard
+D00035,Capital City,2021-08-13,16,Electric
+D00036,Metroville,2020-08-14,29,Standard
+D00037,Metroville,2022-05-09,7,XL
+D00038,Metroville,2022-01-06,12,Standard
+D00039,Metroville,2020-05-25,31,Standard
+D00040,Metroville,2021-03-19,21,Standard
+D00041,Capital City,2022-05-14,7,Electric
+D00042,Capital City,2021-01-20,23,Standard
+D00043,Metroville,2020-10-08,27,Standard
+D00044,Capital City,2022-04-14,8,Standard
+D00045,Capital City,2020-04-16,33,Standard
+D00046,Capital City,2020-04-05,33,Premium
+D00047,Metroville,2020-09-10,28,Premium
+D00048,Capital City,2021-09-08,16,Electric
+D00049,Capital City,2022-11-03,1,Standard
+D00050,Capital City,2021-05-16,19,Premium
+D00051,Metroville,2021-07-02,18,Standard
+D00052,Metroville,2020-02-27,34,Standard
+D00053,Capital City,2021-10-18,14,Standard
+D00054,Metroville,2020-09-16,27,Standard
+D00055,Metroville,2022-08-30,4,Standard
+D00056,Metroville,2021-03-11,22,Standard
+D00057,Capital City,2021-07-15,17,Standard
+D00058,Metroville,2021-03-22,21,Standard
+D00059,Metroville,2020-09-11,28,Standard
+D00060,Metroville,2020-10-22,26,Standard
+D00061,Metroville,2020-07-10,30,Standard
+D00062,Capital City,2020-08-14,29,Standard
+D00063,Capital City,2020-10-07,27,XL
+D00064,Capital City,2021-07-17,17,Standard
+D00065,Capital City,2022-09-12,3,Standard
+D00066,Metroville,2021-07-01,18,Standard
+D00067,Capital City,2020-04-12,33,Standard
+D00068,Capital City,2021-10-10,14,Standard
+D00069,Capital City,2021-02-05,23,Electric
+D00070,Capital City,2022-09-30,3,Standard
+D00071,Capital City,2021-04-10,21,Electric
+D00072,Metroville,2020-06-29,30,Standard
+D00073,Capital City,2020-09-14,27,Standard
+D00074,Capital City,2021-10-05,15,Standard
+D00075,Metroville,2022-01-25,11,Standard
+D00076,Metroville,2021-11-05,14,Standard
+D00077,Capital City,2022-05-21,7,Standard
+D00078,Capital City,2021-02-25,22,XL
+D00079,Metroville,2022-04-12,8,Standard
+D00080,Metroville,2022-11-22,1,Standard
+D00081,Metroville,2022-11-19,1,Standard
+D00082,Capital City,2020-11-16,25,Standard
+D00083,Metroville,2022-07-01,6,Electric
+D00084,Capital City,2021-02-18,22,XL
+D00085,Capital City,2021-01-09,24,Standard
+D00086,Capital City,2022-08-25,4,Electric
+D00087,Metroville,2022-09-23,3,Standard
+D00088,Metroville,2020-02-04,35,Standard
+D00089,Metroville,2021-10-27,14,Premium
+D00090,Metroville,2020-12-21,24,Standard
+D00091,Metroville,2021-11-21,13,XL
+D00092,Metroville,2022-02-14,10,Standard
+D00093,Capital City,2020-10-13,27,Standard
+D00094,Metroville,2021-09-19,15,Standard
+D00095,Capital City,2021-05-17,19,Premium
+D00096,Metroville,2022-02-05,11,Standard
+D00097,Capital City,2020-11-27,25,XL
+D00098,Capital City,2021-02-22,22,XL
+D00099,Metroville,2020-09-07,28,Premium
+D00100,Capital City,2021-10-17,14,XL
+D00101,Capital City,2021-08-10,16,Standard
+D00102,Capital City,2022-12-05,0,Premium
+D00103,Capital City,2022-10-20,2,Standard
+D00104,Capital City,2022-11-21,1,XL
+D00105,Metroville,2020-01-19,35,Premium
+D00106,Capital City,2022-06-06,6,Standard
+D00107,Metroville,2020-03-10,34,Standard
+D00108,Metroville,2020-10-09,27,Standard
+D00109,Metroville,2020-04-13,33,Standard
+D00110,Metroville,2022-10-07,2,Standard
+D00111,Capital City,2022-02-14,10,Standard
+D00112,Capital City,2021-06-01,19,Standard
+D00113,Metroville,2021-04-24,20,Standard
+D00114,Capital City,2022-11-13,1,Premium
+D00115,Capital City,2021-09-17,15,Standard
+D00116,Capital City,2021-08-13,16,Standard
+D00117,Capital City,2022-10-24,2,Standard
+D00118,Metroville,2021-06-23,18,Standard
+D00119,Capital City,2022-04-23,8,Standard
+D00120,Metroville,2020-11-19,25,Standard
+D00121,Capital City,2020-10-03,27,Standard
+D00122,Capital City,2022-04-08,8,Electric
+D00123,Capital City,2021-06-28,18,XL
+D00124,Capital City,2022-07-12,5,Standard
+D00125,Metroville,2022-07-29,5,Premium
+D00126,Metroville,2022-08-03,5,Standard
+D00127,Capital City,2020-03-04,34,Standard
+D00128,Capital City,2020-09-03,28,Premium
+D00129,Metroville,2022-11-21,1,Standard
+D00130,Metroville,2022-12-02,1,Electric
+D00131,Metroville,2022-02-25,10,Standard
+D00132,Capital City,2022-06-20,6,Standard
+D00133,Metroville,2020-10-22,26,Standard
+D00134,Metroville,2021-11-30,13,Standard
+D00135,Capital City,2021-04-02,21,Standard
+D00136,Metroville,2021-03-10,22,Standard
+D00137,Metroville,2020-08-14,29,Electric
+D00138,Metroville,2020-02-17,34,Electric
+D00139,Metroville,2022-11-15,1,XL
+D00140,Metroville,2021-04-23,20,Standard
+D00141,Metroville,2021-06-19,18,Premium
+D00142,Metroville,2020-06-06,31,Standard
+D00143,Capital City,2021-11-12,13,Standard
+D00144,Metroville,2022-06-11,6,XL
+D00145,Metroville,2021-07-09,18,XL
+D00146,Metroville,2020-05-11,32,Standard
+D00147,Metroville,2020-11-21,25,Electric
+D00148,Capital City,2021-05-15,19,Electric
+D00149,Metroville,2020-08-05,29,XL
+D00150,Metroville,2022-06-25,6,Standard
+D00151,Capital City,2021-10-03,15,Standard
+D00152,Metroville,2020-09-21,27,Standard
+D00153,Capital City,2021-06-10,19,Standard
+D00154,Metroville,2020-04-17,32,Electric
+D00155,Metroville,2021-05-29,19,Standard
+D00156,Capital City,2020-01-05,36,XL
+D00157,Metroville,2020-02-29,34,Premium
+D00158,Metroville,2021-08-19,16,Standard
+D00159,Metroville,2020-11-09,26,Standard
+D00160,Metroville,2022-11-27,1,Electric
+D00161,Capital City,2020-03-20,33,Electric
+D00162,Capital City,2020-10-17,26,Standard
+D00163,Metroville,2020-11-29,25,Electric
+D00164,Capital City,2022-05-25,7,Electric
+D00165,Metroville,2020-06-19,30,Standard
+D00166,Metroville,2021-09-30,15,Standard
+D00167,Metroville,2022-11-12,1,Standard
+D00168,Capital City,2020-10-10,27,Standard
+D00169,Metroville,2021-09-13,15,Premium
+D00170,Metroville,2020-06-30,30,Standard
+D00171,Metroville,2020-12-05,25,XL
+D00172,Metroville,2020-04-30,32,Electric
+D00173,Metroville,2022-05-23,7,Standard
+D00174,Metroville,2021-04-05,21,Standard
+D00175,Metroville,2021-02-20,22,Premium
+D00176,Metroville,2022-03-13,9,Premium
+D00177,Capital City,2022-07-14,5,Premium
+D00178,Metroville,2022-06-20,6,Electric
+D00179,Metroville,2022-01-20,11,Standard
+D00180,Capital City,2021-11-02,14,Standard
+D00181,Capital City,2020-04-03,33,Standard
+D00182,Metroville,2021-08-08,17,Standard
+D00183,Metroville,2022-07-14,5,Standard
+D00184,Metroville,2022-03-18,9,XL
+D00185,Capital City,2020-09-28,27,XL
+D00186,Capital City,2020-05-07,32,Standard
+D00187,Capital City,2020-01-26,35,Standard
+D00188,Metroville,2021-09-12,15,Premium
+D00189,Metroville,2022-09-03,4,XL
+D00190,Metroville,2020-03-27,33,Standard
+D00191,Metroville,2021-08-03,17,Standard
+D00192,Capital City,2020-09-10,28,Electric
+D00193,Metroville,2021-04-04,21,Standard
+D00194,Metroville,2021-02-09,23,XL
+D00195,Metroville,2022-02-27,10,Electric
+D00196,Capital City,2022-10-19,2,XL
+D00197,Metroville,2021-03-14,21,Premium
+D00198,Capital City,2020-09-21,27,XL
+D00199,Capital City,2022-12-21,0,Standard
+D00200,Capital City,2021-07-01,18,Electric
+D00201,Capital City,2021-10-30,14,Premium
+D00202,Metroville,2020-04-06,33,Standard
+D00203,Capital City,2020-03-14,34,Standard
+D00204,Metroville,2021-03-31,21,Standard
+D00205,Capital City,2021-09-06,16,Standard
+D00206,Metroville,2021-03-13,21,Standard
+D00207,Capital City,2020-06-01,31,Electric
+D00208,Metroville,2020-04-17,32,Standard
+D00209,Capital City,2020-02-13,35,XL
+D00210,Capital City,2022-07-19,5,Premium
+D00211,Capital City,2022-05-31,7,Standard
+D00212,Metroville,2020-08-13,29,Premium
+D00213,Capital City,2022-07-27,5,Standard
+D00214,Capital City,2020-11-23,25,XL
+D00215,Capital City,2022-04-16,8,Standard
+D00216,Metroville,2022-12-05,0,XL
+D00217,Metroville,2022-02-04,11,Standard
+D00218,Capital City,2020-02-02,35,XL
+D00219,Metroville,2022-04-28,8,XL
+D00220,Metroville,2022-01-26,11,Standard
+D00221,Capital City,2021-11-23,13,XL
+D00222,Metroville,2020-07-19,29,Standard
+D00223,Metroville,2022-05-14,7,Electric
+D00224,Capital City,2022-10-14,2,Standard
+D00225,Metroville,2020-08-16,28,Standard
+D00226,Capital City,2020-03-23,33,XL
+D00227,Metroville,2022-01-17,11,Electric
+D00228,Metroville,2020-01-23,35,Standard
+D00229,Metroville,2020-04-09,33,Standard
+D00230,Capital City,2022-03-21,9,Premium
+D00231,Metroville,2020-08-28,28,Standard
+D00232,Metroville,2020-10-06,27,Standard
+D00233,Capital City,2022-12-14,0,XL
+D00234,Metroville,2021-05-04,20,Standard
+D00235,Metroville,2022-05-06,8,Electric
+D00236,Metroville,2020-07-24,29,Standard
+D00237,Metroville,2021-05-09,20,Standard
+D00238,Metroville,2021-06-25,18,XL
+D00239,Capital City,2020-01-27,35,Standard
+D00240,Metroville,2021-03-12,22,Premium
+D00241,Capital City,2020-12-01,25,Standard
+D00242,Capital City,2022-01-27,11,XL
+D00243,Metroville,2022-03-18,9,Standard
+D00244,Capital City,2021-05-17,19,Premium
+D00245,Metroville,2020-01-26,35,Standard
+D00246,Metroville,2021-11-09,13,XL
+D00247,Metroville,2020-12-02,25,Standard
+D00248,Capital City,2020-02-03,35,Standard
+D00249,Capital City,2021-08-05,17,Standard
+D00250,Metroville,2020-05-10,32,Standard
+D00251,Capital City,2020-05-29,31,XL
+D00252,Metroville,2021-10-27,14,Electric
+D00253,Capital City,2021-02-24,22,Standard
+D00254,Metroville,2022-03-30,9,Standard
+D00255,Capital City,2022-01-30,11,Premium
+D00256,Metroville,2020-01-24,35,Standard
+D00257,Metroville,2020-05-06,32,Standard
+D00258,Metroville,2022-12-12,0,Standard
+D00259,Metroville,2021-03-22,21,Electric
+D00260,Metroville,2020-09-01,28,Standard
+D00261,Metroville,2021-12-30,12,Standard
+D00262,Capital City,2022-02-28,10,Standard
+D00263,Metroville,2020-05-13,32,Standard
+D00264,Metroville,2022-08-17,4,Standard
+D00265,Capital City,2022-12-21,0,Standard
+D00266,Capital City,2021-04-03,21,Standard
+D00267,Metroville,2021-12-13,12,Standard
+D00268,Capital City,2021-11-19,13,Standard
+D00269,Metroville,2022-06-23,6,Standard
+D00270,Capital City,2020-06-06,31,Standard
+D00271,Capital City,2021-02-23,22,Premium
+D00272,Capital City,2022-06-22,6,Standard
+D00273,Capital City,2022-08-29,4,Standard
+D00274,Metroville,2020-05-17,31,Electric
+D00275,Metroville,2022-02-15,10,Electric
+D00276,Metroville,2022-08-18,4,Electric
+D00277,Metroville,2021-01-14,23,XL
+D00278,Metroville,2021-09-26,15,Standard
+D00279,Capital City,2021-01-25,23,XL
+D00280,Metroville,2022-12-04,0,Standard
+D00281,Metroville,2021-12-03,13,Standard
+D00282,Metroville,2021-06-18,18,XL
+D00283,Metroville,2021-05-29,19,Standard
+D00284,Capital City,2020-08-12,29,Standard
+D00285,Metroville,2021-04-15,20,Premium
+D00286,Capital City,2020-12-10,25,Premium
+D00287,Capital City,2020-09-28,27,Standard
+D00288,Metroville,2021-07-29,17,XL
+D00289,Metroville,2021-11-13,13,Standard
+D00290,Capital City,2022-07-27,5,Premium
+D00291,Metroville,2022-02-23,10,Electric
+D00292,Capital City,2022-06-05,7,Electric
+D00293,Capital City,2021-10-15,14,Standard
+D00294,Capital City,2021-06-07,19,Premium
+D00295,Capital City,2022-01-01,12,XL
+D00296,Metroville,2021-07-12,17,Standard
+D00297,Metroville,2022-06-06,6,XL
+D00298,Capital City,2022-04-17,8,Standard
+D00299,Metroville,2020-01-28,35,XL
+D00300,Metroville,2020-11-08,26,Standard
+D00301,Metroville,2021-02-24,22,Electric
+D00302,Capital City,2021-06-13,18,Standard
+D00303,Metroville,2020-05-07,32,Premium
+D00304,Capital City,2021-10-30,14,Premium
+D00305,Metroville,2022-01-22,11,Standard
+D00306,Capital City,2022-12-27,0,Standard
+D00307,Metroville,2021-09-14,15,XL
+D00308,Capital City,2021-10-15,14,Premium
+D00309,Capital City,2022-06-28,6,Standard
+D00310,Metroville,2022-03-07,10,Standard
+D00311,Metroville,2022-03-14,9,Standard
+D00312,Capital City,2022-01-29,11,Standard
+D00313,Metroville,2020-05-03,32,Standard
+D00314,Capital City,2023-01-01,0,Standard
+D00315,Capital City,2021-03-10,22,Standard
+D00316,Capital City,2022-07-26,5,Premium
+D00317,Metroville,2022-09-17,3,Premium
+D00318,Metroville,2022-03-27,9,XL
+D00319,Capital City,2020-02-19,34,Standard
+D00320,Metroville,2020-07-15,30,Standard
+D00321,Capital City,2020-08-13,29,Standard
+D00322,Capital City,2020-05-10,32,Premium
+D00323,Capital City,2021-03-03,22,Standard
+D00324,Metroville,2021-04-22,20,Standard
+D00325,Metroville,2020-03-13,34,Standard
+D00326,Metroville,2022-05-06,8,Standard
+D00327,Metroville,2021-08-26,16,Standard
+D00328,Metroville,2020-10-18,26,Standard
+D00329,Metroville,2020-11-20,25,Standard
+D00330,Capital City,2020-11-03,26,Standard
+D00331,Capital City,2020-05-05,32,Standard
+D00332,Capital City,2021-01-04,24,XL
+D00333,Capital City,2021-04-03,21,Electric
+D00334,Metroville,2020-01-28,35,Standard
+D00335,Metroville,2021-03-23,21,Standard
+D00336,Metroville,2020-01-11,36,Standard
+D00337,Metroville,2022-07-25,5,Standard
+D00338,Metroville,2021-10-20,14,Premium
+D00339,Capital City,2022-01-26,11,Standard
+D00340,Metroville,2021-06-12,18,Standard
+D00341,Capital City,2022-03-15,9,Standard
+D00342,Capital City,2020-07-20,29,Standard
+D00343,Metroville,2020-07-11,30,Electric
+D00344,Capital City,2020-04-03,33,Premium
+D00345,Metroville,2021-08-06,17,Premium
+D00346,Metroville,2022-04-30,8,Standard
+D00347,Metroville,2020-07-24,29,Standard
+D00348,Capital City,2021-01-18,23,Standard
+D00349,Capital City,2022-01-02,12,Standard
+D00350,Metroville,2022-11-11,1,Premium
+D00351,Capital City,2020-12-14,24,Electric
+D00352,Capital City,2020-05-22,31,Standard
+D00353,Capital City,2021-01-23,23,Electric
+D00354,Metroville,2020-08-16,28,Standard
+D00355,Metroville,2021-10-21,14,Standard
+D00356,Capital City,2021-12-06,13,Standard
+D00357,Capital City,2020-11-09,26,Standard
+D00358,Metroville,2020-11-26,25,XL
+D00359,Metroville,2021-12-31,12,Standard
+D00360,Capital City,2022-12-11,0,XL
+D00361,Metroville,2021-11-26,13,Standard
+D00362,Metroville,2020-07-10,30,XL
+D00363,Capital City,2020-12-23,24,Standard
+D00364,Capital City,2020-01-20,35,Standard
+D00365,Metroville,2021-11-28,13,Standard
+D00366,Metroville,2022-12-21,0,Standard
+D00367,Capital City,2021-04-06,21,Standard
+D00368,Capital City,2021-02-28,22,Premium
+D00369,Capital City,2022-06-23,6,Standard
+D00370,Metroville,2020-12-07,25,Premium
+D00371,Metroville,2021-07-31,17,XL
+D00372,Metroville,2020-03-08,34,Standard
+D00373,Capital City,2022-12-06,0,Electric
+D00374,Metroville,2021-06-21,18,Standard
+D00375,Capital City,2022-10-25,2,Standard
+D00376,Metroville,2021-06-17,18,Standard
+D00377,Metroville,2020-04-26,32,Standard
+D00378,Metroville,2020-10-08,27,Electric
+D00379,Capital City,2022-10-04,2,Electric
+D00380,Metroville,2021-08-01,17,Standard
+D00381,Capital City,2021-06-19,18,Standard
+D00382,Capital City,2022-09-06,3,Standard
+D00383,Capital City,2022-10-31,2,Electric
+D00384,Metroville,2020-05-12,32,Standard
+D00385,Metroville,2020-06-15,31,Standard
+D00386,Metroville,2020-04-02,33,Premium
+D00387,Metroville,2022-01-11,11,Standard
+D00388,Metroville,2020-05-07,32,Standard
+D00389,Metroville,2022-06-03,7,Premium
+D00390,Capital City,2022-10-15,2,Standard
+D00391,Metroville,2020-12-06,25,XL
+D00392,Metroville,2022-11-03,1,Standard
+D00393,Capital City,2022-02-22,10,Standard
+D00394,Metroville,2022-01-04,12,Electric
+D00395,Metroville,2022-04-07,8,Electric
+D00396,Metroville,2022-07-16,5,XL
+D00397,Metroville,2020-08-25,28,Standard
+D00398,Capital City,2022-05-02,8,XL
+D00399,Metroville,2022-09-09,3,Premium
+D00400,Metroville,2020-07-07,30,XL
+D00401,Capital City,2022-08-27,4,Standard
+D00402,Metroville,2021-03-29,21,Standard
+D00403,Capital City,2022-06-16,6,Standard
+D00404,Capital City,2021-06-12,18,Standard
+D00405,Capital City,2021-11-30,13,Premium
+D00406,Capital City,2022-11-28,1,Electric
+D00407,Metroville,2021-02-19,22,Standard
+D00408,Capital City,2021-03-24,21,Standard
+D00409,Capital City,2022-01-20,11,Premium
+D00410,Capital City,2020-12-12,25,Standard
+D00411,Metroville,2020-02-09,35,Premium
+D00412,Metroville,2022-12-03,0,Premium
+D00413,Metroville,2020-09-28,27,Standard
+D00414,Metroville,2020-09-01,28,Electric
+D00415,Metroville,2022-08-29,4,Standard
+D00416,Capital City,2022-08-21,4,Premium
+D00417,Capital City,2021-12-02,13,Standard
+D00418,Capital City,2020-03-10,34,Standard
+D00419,Capital City,2022-03-05,10,XL
+D00420,Metroville,2021-07-04,18,Standard
+D00421,Capital City,2022-07-14,5,Standard
+D00422,Capital City,2022-01-13,11,Standard
+D00423,Capital City,2020-07-07,30,Standard
+D00424,Metroville,2022-10-02,3,Standard
+D00425,Metroville,2021-06-16,18,Standard
+D00426,Metroville,2021-11-21,13,Standard
+D00427,Capital City,2020-03-02,34,Standard
+D00428,Capital City,2020-09-15,27,Standard
+D00429,Metroville,2022-01-12,11,Standard
+D00430,Capital City,2022-12-26,0,Standard
+D00431,Metroville,2021-04-04,21,Standard
+D00432,Metroville,2021-06-20,18,Standard
+D00433,Metroville,2021-01-13,23,Standard
+D00434,Capital City,2022-05-05,8,Standard
+D00435,Metroville,2021-02-01,23,Standard
+D00436,Metroville,2020-05-22,31,Standard
+D00437,Capital City,2022-07-09,5,Premium
+D00438,Metroville,2020-05-28,31,Standard
+D00439,Metroville,2022-07-05,6,Standard
+D00440,Capital City,2022-05-08,7,XL
+D00441,Metroville,2022-06-30,6,Electric
+D00442,Metroville,2021-12-24,12,Standard
+D00443,Metroville,2022-07-09,5,Standard
+D00444,Capital City,2021-12-17,12,XL
+D00445,Capital City,2021-03-22,21,Standard
+D00446,Capital City,2022-11-21,1,XL
+D00447,Metroville,2022-01-20,11,Standard
+D00448,Capital City,2022-12-11,0,XL
+D00449,Capital City,2021-10-13,14,Standard
+D00450,Metroville,2020-11-25,25,XL
+D00451,Capital City,2020-06-03,31,Standard
+D00452,Metroville,2022-07-19,5,Electric
+D00453,Capital City,2021-08-14,16,XL
+D00454,Metroville,2021-04-11,21,Premium
+D00455,Metroville,2021-12-06,13,XL
+D00456,Metroville,2022-04-05,9,Premium
+D00457,Capital City,2021-04-06,21,XL
+D00458,Metroville,2022-09-14,3,Standard
+D00459,Capital City,2020-11-16,25,Standard
+D00460,Metroville,2021-05-24,19,Electric
+D00461,Metroville,2022-01-02,12,Premium
+D00462,Metroville,2021-06-09,19,XL
+D00463,Capital City,2022-03-20,9,Premium
+D00464,Capital City,2021-03-26,21,Standard
+D00465,Capital City,2020-09-06,28,XL
+D00466,Metroville,2021-09-26,15,Standard
+D00467,Capital City,2021-12-12,12,Standard
+D00468,Metroville,2021-06-22,18,Standard
+D00469,Metroville,2021-11-19,13,XL
+D00470,Metroville,2022-01-04,12,Standard
+D00471,Capital City,2021-05-07,20,Standard
+D00472,Capital City,2021-07-19,17,XL
+D00473,Capital City,2020-07-15,30,XL
+D00474,Metroville,2021-07-09,18,Standard
+D00475,Metroville,2022-06-26,6,Standard
+D00476,Metroville,2020-04-03,33,Standard
+D00477,Metroville,2021-01-04,24,Standard
+D00478,Metroville,2020-12-18,24,Standard
+D00479,Metroville,2021-01-17,23,Premium
+D00480,Capital City,2020-01-26,35,XL
+D00481,Capital City,2020-06-25,30,Premium
+D00482,Capital City,2022-01-17,11,Standard
+D00483,Metroville,2022-10-18,2,XL
+D00484,Metroville,2020-11-03,26,Standard
+D00485,Metroville,2022-02-17,10,Standard
+D00486,Capital City,2021-10-27,14,Standard
+D00487,Metroville,2020-07-27,29,Standard
+D00488,Capital City,2021-01-21,23,Premium
+D00489,Metroville,2021-05-20,19,XL
+D00490,Metroville,2021-11-03,14,Premium
+D00491,Capital City,2021-01-31,23,Electric
+D00492,Metroville,2020-03-06,34,Standard
+D00493,Metroville,2021-06-30,18,Standard
+D00494,Metroville,2022-06-30,6,Standard
+D00495,Metroville,2020-02-15,35,Electric
+D00496,Metroville,2021-10-27,14,Electric
+D00497,Capital City,2021-07-22,17,XL
+D00498,Capital City,2021-10-12,14,XL
+D00499,Capital City,2020-05-19,31,Standard
+D00500,Metroville,2021-07-16,17,Electric
+D00501,Metroville,2022-10-29,2,Standard
+D00502,Capital City,2022-05-10,7,Standard
+D00503,Capital City,2020-02-08,35,Standard
+D00504,Capital City,2021-12-16,12,Standard
+D00505,Capital City,2020-05-03,32,Standard
+D00506,Capital City,2022-03-21,9,Standard
+D00507,Metroville,2020-05-20,31,Standard
+D00508,Metroville,2021-03-11,22,Premium
+D00509,Metroville,2020-11-30,25,Standard
+D00510,Metroville,2020-11-19,25,XL
+D00511,Metroville,2022-10-24,2,Standard
+D00512,Capital City,2021-03-12,22,Electric
+D00513,Capital City,2022-06-01,7,XL
+D00514,Metroville,2020-12-28,24,XL
+D00515,Capital City,2022-12-16,0,Electric
+D00516,Metroville,2022-02-10,10,Electric
+D00517,Metroville,2020-08-21,28,Premium
+D00518,Metroville,2020-05-03,32,Standard
+D00519,Metroville,2021-02-15,22,Standard
+D00520,Capital City,2021-02-11,22,Premium
+D00521,Capital City,2022-06-10,6,Standard
+D00522,Capital City,2021-12-14,12,Premium
+D00523,Metroville,2020-12-29,24,XL
+D00524,Metroville,2021-04-14,20,Standard
+D00525,Metroville,2022-02-02,11,Standard
+D00526,Metroville,2020-05-20,31,Standard
+D00527,Capital City,2021-12-16,12,Standard
+D00528,Metroville,2022-11-18,1,Electric
+D00529,Metroville,2020-07-16,29,Premium
+D00530,Metroville,2020-06-11,31,Standard
+D00531,Metroville,2020-07-25,29,Electric
+D00532,Metroville,2020-10-06,27,Standard
+D00533,Capital City,2020-05-07,32,Electric
+D00534,Metroville,2021-08-21,16,XL
+D00535,Metroville,2021-08-02,17,Standard
+D00536,Metroville,2020-11-28,25,Standard
+D00537,Metroville,2021-02-09,23,Standard
+D00538,Metroville,2020-04-18,32,Standard
+D00539,Metroville,2020-10-02,27,Electric
+D00540,Capital City,2021-04-27,20,Standard
+D00541,Capital City,2022-10-11,2,Standard
+D00542,Metroville,2021-09-09,15,Standard
+D00543,Metroville,2020-02-28,34,XL
+D00544,Capital City,2022-05-26,7,Standard
+D00545,Metroville,2020-08-22,28,Standard
+D00546,Metroville,2020-08-12,29,XL
+D00547,Capital City,2021-06-29,18,Standard
+D00548,Capital City,2020-10-03,27,Standard
+D00549,Capital City,2022-11-04,1,Standard
+D00550,Capital City,2022-01-31,11,Standard
+D00551,Metroville,2020-02-18,34,XL
+D00552,Metroville,2022-01-26,11,Electric
+D00553,Metroville,2021-04-26,20,Electric
+D00554,Capital City,2020-01-24,35,Standard
+D00555,Metroville,2021-11-21,13,XL
+D00556,Metroville,2022-03-22,9,XL
+D00557,Metroville,2022-04-10,8,Premium
+D00558,Metroville,2021-02-18,22,XL
+D00559,Metroville,2022-09-13,3,XL
+D00560,Metroville,2022-06-30,6,Standard
+D00561,Capital City,2021-04-08,21,XL
+D00562,Capital City,2022-03-18,9,Standard
+D00563,Capital City,2021-01-23,23,Premium
+D00564,Capital City,2020-06-06,31,Standard
+D00565,Metroville,2020-10-13,27,Electric
+D00566,Metroville,2022-01-28,11,Electric
+D00567,Metroville,2020-06-02,31,Electric
+D00568,Capital City,2022-12-31,0,XL
+D00569,Metroville,2022-03-05,10,Electric
+D00570,Metroville,2021-11-17,13,Premium
+D00571,Metroville,2022-01-14,11,Premium
+D00572,Capital City,2021-04-24,20,Standard
+D00573,Capital City,2021-04-12,20,Standard
+D00574,Capital City,2022-07-21,5,Electric
+D00575,Metroville,2021-12-19,12,Standard
+D00576,Capital City,2021-09-05,16,Standard
+D00577,Metroville,2021-11-11,13,Standard
+D00578,Metroville,2020-07-21,29,Standard
+D00579,Metroville,2022-07-01,6,Standard
+D00580,Capital City,2021-08-18,16,Standard
+D00581,Metroville,2022-02-20,10,Premium
+D00582,Capital City,2020-11-26,25,Standard
+D00583,Capital City,2022-12-22,0,Premium
+D00584,Metroville,2020-04-29,32,Standard
+D00585,Metroville,2022-02-09,10,Premium
+D00586,Metroville,2021-01-26,23,Electric
+D00587,Capital City,2022-06-11,6,Standard
+D00588,Metroville,2020-05-12,32,Standard
+D00589,Metroville,2020-10-16,26,Standard
+D00590,Capital City,2021-10-23,14,Premium
+D00591,Metroville,2020-05-09,32,Standard
+D00592,Metroville,2020-11-22,25,Standard
+D00593,Capital City,2020-05-27,31,Standard
+D00594,Capital City,2021-08-22,16,Electric
+D00595,Capital City,2022-06-19,6,Standard
+D00596,Metroville,2020-10-30,26,Standard
+D00597,Capital City,2022-04-13,8,XL
+D00598,Capital City,2021-03-21,21,XL
+D00599,Capital City,2022-04-03,9,XL
+D00600,Metroville,2020-10-05,27,XL
+D00601,Capital City,2021-03-03,22,Standard
+D00602,Capital City,2021-06-01,19,Electric
+D00603,Metroville,2020-08-15,28,XL
+D00604,Metroville,2020-10-17,26,Standard
+D00605,Metroville,2020-01-04,36,Standard
+D00606,Metroville,2022-08-08,4,Standard
+D00607,Capital City,2021-01-21,23,Standard
+D00608,Metroville,2020-04-06,33,Standard
+D00609,Metroville,2022-11-07,1,Standard
+D00610,Metroville,2021-10-04,15,Standard
+D00611,Metroville,2022-01-02,12,Standard
+D00612,Capital City,2021-09-07,16,Standard
+D00613,Capital City,2020-12-07,25,Standard
+D00614,Metroville,2020-12-21,24,Standard
+D00615,Capital City,2021-02-04,23,Standard
+D00616,Capital City,2020-03-11,34,Premium
+D00617,Metroville,2022-12-29,0,Electric
+D00618,Metroville,2020-10-08,27,Standard
+D00619,Metroville,2022-07-27,5,Standard
+D00620,Metroville,2021-09-17,15,Premium
+D00621,Metroville,2022-03-25,9,Premium
+D00622,Metroville,2020-03-14,34,Electric
+D00623,Metroville,2021-12-13,12,Premium
+D00624,Capital City,2022-10-03,3,Standard
+D00625,Metroville,2021-10-26,14,Standard
+D00626,Metroville,2021-04-23,20,Standard
+D00627,Capital City,2020-07-24,29,Standard
+D00628,Metroville,2022-06-25,6,Standard
+D00629,Capital City,2021-02-05,23,Standard
+D00630,Metroville,2020-11-06,26,Standard
+D00631,Metroville,2021-12-29,12,Premium
+D00632,Capital City,2020-08-13,29,Premium
+D00633,Metroville,2022-02-27,10,Electric
+D00634,Metroville,2021-05-28,19,Standard
+D00635,Metroville,2021-04-04,21,Standard
+D00636,Metroville,2020-10-31,26,Standard
+D00637,Metroville,2020-04-22,32,Standard
+D00638,Capital City,2022-10-22,2,Electric
+D00639,Metroville,2021-07-16,17,XL
+D00640,Capital City,2020-08-21,28,Electric
+D00641,Metroville,2021-12-30,12,XL
+D00642,Metroville,2022-02-01,11,Premium
+D00643,Capital City,2020-10-08,27,Premium
+D00644,Metroville,2020-02-07,35,XL
+D00645,Metroville,2022-05-29,7,Standard
+D00646,Metroville,2020-05-24,31,XL
+D00647,Capital City,2022-07-16,5,Premium
+D00648,Metroville,2021-01-22,23,Standard
+D00649,Metroville,2022-06-08,6,Standard
+D00650,Metroville,2020-09-25,27,Standard
+D00651,Metroville,2022-12-07,0,XL
+D00652,Capital City,2022-02-06,10,XL
+D00653,Metroville,2021-03-19,21,Standard
+D00654,Metroville,2022-04-13,8,Standard
+D00655,Capital City,2020-02-28,34,Standard
+D00656,Capital City,2020-11-06,26,Electric
+D00657,Metroville,2020-06-14,31,Standard
+D00658,Capital City,2022-12-09,0,Premium
+D00659,Capital City,2020-04-11,33,Premium
+D00660,Metroville,2020-10-01,27,Standard
+D00661,Metroville,2020-08-19,28,Standard
+D00662,Metroville,2022-09-12,3,Standard
+D00663,Capital City,2021-04-21,20,Standard
+D00664,Metroville,2020-08-14,29,Standard
+D00665,Metroville,2021-07-21,17,Standard
+D00666,Capital City,2022-05-09,7,XL
+D00667,Metroville,2020-06-23,30,Standard
+D00668,Capital City,2020-03-09,34,Standard
+D00669,Metroville,2020-11-29,25,Standard
+D00670,Capital City,2020-05-07,32,Standard
+D00671,Capital City,2021-02-14,22,Standard
+D00672,Metroville,2020-01-02,36,Premium
+D00673,Metroville,2020-12-15,24,Standard
+D00674,Metroville,2022-05-18,7,Standard
+D00675,Metroville,2021-12-31,12,Premium
+D00676,Capital City,2020-08-16,28,Electric
+D00677,Capital City,2020-01-09,36,Premium
+D00678,Capital City,2020-11-07,26,XL
+D00679,Metroville,2022-07-22,5,Standard
+D00680,Capital City,2022-02-28,10,Standard
+D00681,Capital City,2022-12-18,0,Standard
+D00682,Metroville,2021-02-10,23,XL
+D00683,Metroville,2021-07-22,17,Electric
+D00684,Capital City,2021-11-23,13,Premium
+D00685,Metroville,2020-02-12,35,Standard
+D00686,Metroville,2020-06-14,31,XL
+D00687,Metroville,2020-07-25,29,Standard
+D00688,Metroville,2022-09-24,3,Standard
+D00689,Capital City,2020-05-25,31,Standard
+D00690,Metroville,2021-06-04,19,Premium
+D00691,Capital City,2022-10-12,2,XL
+D00692,Capital City,2022-04-28,8,Standard
+D00693,Metroville,2020-04-04,33,Electric
+D00694,Capital City,2020-06-03,31,Premium
+D00695,Capital City,2020-12-11,25,Electric
+D00696,Metroville,2022-09-21,3,Standard
+D00697,Capital City,2020-12-06,25,Electric
+D00698,Capital City,2021-08-03,17,XL
+D00699,Metroville,2020-08-13,29,Standard
+D00700,Metroville,2021-02-09,23,Electric
+D00701,Metroville,2021-05-05,20,Standard
+D00702,Capital City,2022-11-14,1,Standard
+D00703,Capital City,2021-07-03,18,Standard
+D00704,Metroville,2021-12-31,12,Premium
+D00705,Capital City,2021-05-11,20,Standard
+D00706,Capital City,2021-01-01,24,Standard
+D00707,Metroville,2020-08-30,28,Standard
+D00708,Capital City,2022-11-27,1,Standard
+D00709,Metroville,2020-07-01,30,XL
+D00710,Metroville,2021-03-08,22,Standard
+D00711,Metroville,2021-05-02,20,Premium
+D00712,Metroville,2022-10-21,2,XL
+D00713,Metroville,2022-05-18,7,Standard
+D00714,Capital City,2020-12-31,24,Standard
+D00715,Capital City,2022-10-19,2,Standard
+D00716,Metroville,2020-01-09,36,Standard
+D00717,Metroville,2020-10-12,27,Standard
+D00718,Metroville,2021-08-10,16,Standard
+D00719,Metroville,2022-01-08,11,Standard
+D00720,Metroville,2022-07-13,5,Standard
+D00721,Metroville,2020-01-02,36,Standard
+D00722,Capital City,2022-06-22,6,Premium
+D00723,Metroville,2022-04-18,8,Standard
+D00724,Metroville,2022-03-11,9,XL
+D00725,Metroville,2020-03-27,33,Standard
+D00726,Metroville,2020-08-02,29,Electric
+D00727,Capital City,2021-06-18,18,Standard
+D00728,Metroville,2021-01-24,23,XL
+D00729,Metroville,2020-06-07,31,Standard
+D00730,Capital City,2021-08-20,16,Standard
+D00731,Metroville,2020-01-25,35,Standard
+D00732,Capital City,2020-06-07,31,Standard
+D00733,Capital City,2022-10-10,2,Standard
+D00734,Capital City,2022-07-29,5,Electric
+D00735,Metroville,2021-03-04,22,Standard
+D00736,Capital City,2020-11-29,25,Premium
+D00737,Metroville,2022-10-15,2,XL
+D00738,Metroville,2022-03-07,10,Standard
+D00739,Capital City,2022-06-08,6,Standard
+D00740,Metroville,2020-11-10,26,Electric
+D00741,Capital City,2020-02-17,34,Electric
+D00742,Capital City,2022-07-24,5,Premium
+D00743,Metroville,2021-02-09,23,Standard
+D00744,Metroville,2021-04-23,20,Standard
+D00745,Capital City,2020-08-19,28,Standard
+D00746,Metroville,2020-10-03,27,Premium
+D00747,Metroville,2022-11-17,1,Standard
+D00748,Metroville,2021-12-21,12,XL
+D00749,Metroville,2021-07-24,17,Standard
+D00750,Metroville,2022-07-23,5,Standard
+D00751,Metroville,2020-07-28,29,Electric
+D00752,Metroville,2022-05-08,7,Standard
+D00753,Capital City,2021-12-05,13,XL
+D00754,Metroville,2021-07-16,17,Standard
+D00755,Capital City,2021-04-21,20,Standard
+D00756,Metroville,2020-02-14,35,Standard
+D00757,Metroville,2021-08-20,16,Premium
+D00758,Metroville,2022-09-23,3,Standard
+D00759,Capital City,2020-11-26,25,Standard
+D00760,Metroville,2020-05-08,32,Standard
+D00761,Capital City,2021-10-18,14,Standard
+D00762,Capital City,2020-07-21,29,Standard
+D00763,Capital City,2021-06-18,18,XL
+D00764,Capital City,2021-12-17,12,Standard
+D00765,Metroville,2021-06-14,18,Standard
+D00766,Metroville,2020-03-10,34,Standard
+D00767,Metroville,2022-09-30,3,Electric
+D00768,Capital City,2020-10-07,27,Standard
+D00769,Metroville,2021-12-26,12,XL
+D00770,Metroville,2021-05-28,19,Standard
+D00771,Metroville,2021-06-22,18,Standard
+D00772,Capital City,2022-12-22,0,Electric
+D00773,Metroville,2020-09-20,27,Standard
+D00774,Metroville,2021-11-03,14,XL
+D00775,Capital City,2022-11-24,1,Standard
+D00776,Capital City,2020-09-05,28,Standard
+D00777,Metroville,2022-04-11,8,Premium
+D00778,Metroville,2021-06-18,18,Standard
+D00779,Capital City,2021-07-04,18,Standard
+D00780,Metroville,2020-05-29,31,Standard
+D00781,Metroville,2021-03-21,21,Standard
+D00782,Metroville,2022-06-17,6,XL
+D00783,Capital City,2021-10-05,15,Standard
+D00784,Metroville,2021-09-28,15,Premium
+D00785,Capital City,2022-11-25,1,Standard
+D00786,Capital City,2021-03-08,22,Standard
+D00787,Capital City,2021-10-06,15,Standard
+D00788,Capital City,2022-08-24,4,Standard
+D00789,Capital City,2021-05-22,19,Standard
+D00790,Metroville,2020-06-02,31,XL
+D00791,Capital City,2020-08-23,28,Premium
+D00792,Metroville,2021-02-27,22,XL
+D00793,Capital City,2020-10-27,26,Standard
+D00794,Metroville,2020-05-02,32,XL
+D00795,Capital City,2022-12-07,0,XL
+D00796,Capital City,2021-01-29,23,XL
+D00797,Capital City,2021-02-03,23,Electric
+D00798,Capital City,2021-03-18,21,XL
+D00799,Metroville,2021-01-22,23,Standard
+D00800,Metroville,2020-07-05,30,Premium
+D00801,Metroville,2022-02-25,10,Standard
+D00802,Metroville,2020-05-30,31,XL
+D00803,Capital City,2020-03-16,34,Electric
+D00804,Metroville,2021-10-27,14,Standard
+D00805,Metroville,2020-01-07,36,Standard
+D00806,Capital City,2022-01-18,11,Standard
+D00807,Metroville,2020-10-25,26,Standard
+D00808,Metroville,2021-07-27,17,Standard
+D00809,Metroville,2020-09-28,27,Standard
+D00810,Metroville,2022-10-27,2,Standard
+D00811,Capital City,2022-07-25,5,Electric
+D00812,Metroville,2020-04-10,33,Premium
+D00813,Capital City,2021-01-24,23,Standard
+D00814,Metroville,2022-07-15,5,Standard
+D00815,Metroville,2021-11-02,14,Premium
+D00816,Metroville,2020-01-13,36,XL
+D00817,Metroville,2020-12-06,25,Electric
+D00818,Capital City,2021-04-19,20,Electric
+D00819,Capital City,2021-05-14,19,Standard
+D00820,Capital City,2021-03-27,21,Standard
+D00821,Capital City,2020-06-21,30,Standard
+D00822,Metroville,2020-05-19,31,Electric
+D00823,Metroville,2022-11-02,2,Standard
+D00824,Metroville,2022-02-16,10,Premium
+D00825,Capital City,2022-01-25,11,Premium
+D00826,Capital City,2021-01-11,24,Standard
+D00827,Metroville,2020-08-01,29,Premium
+D00828,Capital City,2020-09-03,28,Standard
+D00829,Metroville,2022-11-15,1,Standard
+D00830,Metroville,2021-05-30,19,Standard
+D00831,Metroville,2020-04-01,33,Standard
+D00832,Metroville,2021-09-08,16,XL
+D00833,Capital City,2020-11-24,25,Standard
+D00834,Metroville,2022-04-07,8,Electric
+D00835,Metroville,2020-11-17,25,Electric
+D00836,Metroville,2022-04-24,8,XL
+D00837,Metroville,2022-06-17,6,Standard
+D00838,Capital City,2020-10-13,27,Electric
+D00839,Metroville,2021-10-11,14,Electric
+D00840,Metroville,2021-10-26,14,Premium
+D00841,Metroville,2022-05-20,7,Standard
+D00842,Capital City,2021-05-19,19,Standard
+D00843,Metroville,2022-01-01,12,Standard
+D00844,Metroville,2022-02-10,10,Premium
+D00845,Metroville,2020-10-02,27,XL
+D00846,Metroville,2020-09-17,27,Standard
+D00847,Metroville,2021-01-11,24,Premium
+D00848,Metroville,2021-10-13,14,Standard
+D00849,Metroville,2020-08-28,28,XL
+D00850,Metroville,2021-06-09,19,XL
+D00851,Metroville,2021-03-18,21,Standard
+D00852,Metroville,2020-12-19,24,Standard
+D00853,Metroville,2022-05-30,7,Electric
+D00854,Metroville,2021-03-22,21,Standard
+D00855,Metroville,2020-03-09,34,Standard
+D00856,Metroville,2020-01-07,36,XL
+D00857,Metroville,2020-10-20,26,XL
+D00858,Metroville,2021-09-27,15,Standard
+D00859,Metroville,2020-09-26,27,Standard
+D00860,Metroville,2020-03-24,33,Standard
+D00861,Metroville,2020-05-26,31,XL
+D00862,Metroville,2021-05-25,19,Premium
+D00863,Metroville,2020-06-25,30,XL
+D00864,Metroville,2022-02-14,10,Standard
+D00865,Capital City,2022-01-03,12,Standard
+D00866,Metroville,2020-10-04,27,Standard
+D00867,Metroville,2021-05-21,19,Electric
+D00868,Capital City,2022-12-26,0,XL
+D00869,Capital City,2020-01-07,36,Standard
+D00870,Metroville,2021-02-16,22,XL
+D00871,Metroville,2020-05-26,31,Standard
+D00872,Metroville,2022-01-14,11,Electric
+D00873,Metroville,2022-06-14,6,XL
+D00874,Metroville,2020-11-07,26,Standard
+D00875,Capital City,2020-08-28,28,Electric
+D00876,Metroville,2020-08-28,28,Standard
+D00877,Metroville,2020-09-13,28,XL
+D00878,Metroville,2021-12-11,12,Standard
+D00879,Capital City,2022-11-03,1,Standard
+D00880,Metroville,2021-09-29,15,XL
+D00881,Capital City,2022-03-24,9,Electric
+D00882,Metroville,2020-03-07,34,Electric
+D00883,Capital City,2022-07-21,5,Standard
+D00884,Capital City,2020-09-16,27,Standard
+D00885,Capital City,2022-11-16,1,Premium
+D00886,Capital City,2021-03-07,22,Standard
+D00887,Capital City,2021-08-08,17,Standard
+D00888,Capital City,2022-01-26,11,Premium
+D00889,Metroville,2020-05-10,32,Standard
+D00890,Capital City,2022-06-29,6,Standard
+D00891,Capital City,2020-12-04,25,Standard
+D00892,Capital City,2022-11-16,1,Standard
+D00893,Metroville,2020-10-26,26,Electric
+D00894,Capital City,2020-02-19,34,Standard
+D00895,Capital City,2021-12-02,13,Standard
+D00896,Capital City,2022-02-05,11,Standard
+D00897,Metroville,2020-06-08,31,Standard
+D00898,Metroville,2020-12-07,25,XL
+D00899,Capital City,2021-08-29,16,Standard
+D00900,Metroville,2022-01-08,11,XL
+D00901,Metroville,2020-05-09,32,Standard
+D00902,Metroville,2021-11-18,13,Standard
+D00903,Metroville,2021-03-12,22,Premium
+D00904,Metroville,2022-04-05,9,XL
+D00905,Metroville,2021-05-11,20,Standard
+D00906,Metroville,2022-08-22,4,XL
+D00907,Metroville,2022-10-30,2,Standard
+D00908,Capital City,2021-11-04,14,Standard
+D00909,Capital City,2020-06-01,31,Electric
+D00910,Metroville,2020-06-05,31,Standard
+D00911,Metroville,2021-08-18,16,XL
+D00912,Metroville,2020-07-07,30,Premium
+D00913,Capital City,2021-08-24,16,Standard
+D00914,Capital City,2022-01-04,12,Standard
+D00915,Metroville,2020-06-01,31,Premium
+D00916,Metroville,2020-03-13,34,Standard
+D00917,Capital City,2022-05-19,7,Premium
+D00918,Metroville,2021-02-22,22,XL
+D00919,Metroville,2022-02-09,10,XL
+D00920,Capital City,2021-08-18,16,Standard
+D00921,Metroville,2020-05-30,31,Premium
+D00922,Capital City,2022-08-11,4,Standard
+D00923,Metroville,2022-12-18,0,Standard
+D00924,Metroville,2022-10-27,2,Premium
+D00925,Metroville,2020-09-21,27,Premium
+D00926,Capital City,2020-02-02,35,Electric
+D00927,Metroville,2020-05-14,32,Premium
+D00928,Capital City,2020-11-03,26,Standard
+D00929,Metroville,2022-08-10,4,Electric
+D00930,Metroville,2020-08-30,28,Electric
+D00931,Metroville,2021-07-18,17,Standard
+D00932,Metroville,2022-04-29,8,Standard
+D00933,Metroville,2020-01-04,36,Standard
+D00934,Metroville,2022-11-14,1,Standard
+D00935,Metroville,2020-07-17,29,XL
+D00936,Metroville,2020-04-22,32,XL
+D00937,Capital City,2022-09-01,4,Standard
+D00938,Metroville,2021-05-12,19,Electric
+D00939,Capital City,2020-10-08,27,Standard
+D00940,Capital City,2022-10-12,2,Standard
+D00941,Metroville,2020-12-18,24,Standard
+D00942,Metroville,2020-10-05,27,Electric
+D00943,Capital City,2020-02-19,34,Premium
+D00944,Metroville,2020-07-14,30,Standard
+D00945,Metroville,2020-08-07,29,Standard
+D00946,Metroville,2022-04-22,8,Standard
+D00947,Metroville,2022-06-03,7,Electric
+D00948,Capital City,2022-03-09,9,Standard
+D00949,Capital City,2021-07-13,17,Standard
+D00950,Metroville,2022-05-18,7,Electric
+D00951,Capital City,2022-01-20,11,Standard
+D00952,Metroville,2020-12-12,25,Electric
+D00953,Metroville,2020-09-08,28,Standard
+D00954,Capital City,2021-02-05,23,Standard
+D00955,Metroville,2022-03-17,9,Standard
+D00956,Capital City,2021-08-22,16,XL
+D00957,Metroville,2020-04-18,32,Standard
+D00958,Metroville,2021-10-28,14,Standard
+D00959,Metroville,2021-07-09,18,Standard
+D00960,Metroville,2022-06-17,6,Electric
+D00961,Metroville,2021-02-25,22,Standard
+D00962,Metroville,2022-08-03,5,Premium
+D00963,Metroville,2020-06-07,31,Standard
+D00964,Capital City,2020-03-31,33,Electric
+D00965,Capital City,2021-08-18,16,Standard
+D00966,Metroville,2021-07-18,17,Premium
+D00967,Metroville,2021-01-30,23,Standard
+D00968,Capital City,2021-05-07,20,XL
+D00969,Capital City,2020-07-05,30,XL
+D00970,Capital City,2021-02-23,22,Premium
+D00971,Metroville,2020-06-23,30,Electric
+D00972,Metroville,2021-07-22,17,Standard
+D00973,Metroville,2021-06-17,18,Standard
+D00974,Metroville,2022-10-20,2,Standard
+D00975,Metroville,2022-03-21,9,Standard
+D00976,Metroville,2022-03-04,10,Standard
+D00977,Metroville,2020-01-29,35,XL
+D00978,Metroville,2021-05-21,19,Standard
+D00979,Metroville,2022-11-09,1,XL
+D00980,Capital City,2021-10-06,15,Standard
+D00981,Capital City,2020-12-03,25,XL
+D00982,Capital City,2020-12-20,24,Standard
+D00983,Capital City,2021-05-15,19,Standard
+D00984,Capital City,2021-04-13,20,XL
+D00985,Capital City,2022-02-11,10,Standard
+D00986,Capital City,2021-04-17,20,Standard
+D00987,Metroville,2020-05-03,32,Standard
+D00988,Capital City,2020-07-15,30,Standard
+D00989,Metroville,2021-05-08,20,Standard
+D00990,Capital City,2022-02-19,10,XL
+D00991,Capital City,2022-04-13,8,Standard
+D00992,Capital City,2022-03-07,10,Premium
+D00993,Capital City,2021-05-13,19,Premium
+D00994,Capital City,2020-11-06,26,XL
+D00995,Metroville,2021-07-24,17,Standard
+D00996,Capital City,2021-09-22,15,Standard
+D00997,Capital City,2022-11-05,1,Standard
+D00998,Metroville,2021-10-25,14,Standard
+D00999,Capital City,2021-04-21,20,XL
+D01000,Metroville,2022-03-04,10,Standard
+D01001,Metroville,2022-12-08,0,Standard
+D01002,Metroville,2021-07-19,17,XL
+D01003,Capital City,2020-12-17,24,Standard
+D01004,Metroville,2020-02-25,34,Premium
+D01005,Capital City,2020-02-08,35,Electric
+D01006,Metroville,2020-09-22,27,Standard
+D01007,Metroville,2020-04-30,32,Premium
+D01008,Capital City,2022-01-18,11,Standard
+D01009,Capital City,2021-01-27,23,Standard
+D01010,Capital City,2022-02-16,10,Standard
+D01011,Metroville,2020-03-11,34,Standard
+D01012,Metroville,2021-03-29,21,XL
+D01013,Metroville,2020-01-26,35,Premium
+D01014,Metroville,2020-11-26,25,Standard
+D01015,Capital City,2020-11-18,25,Electric
+D01016,Metroville,2020-04-13,33,Electric
+D01017,Capital City,2022-01-20,11,Standard
+D01018,Capital City,2020-01-22,35,Standard
+D01019,Metroville,2020-04-19,32,Premium
+D01020,Metroville,2022-01-07,11,Standard
+D01021,Metroville,2020-04-15,33,XL
+D01022,Capital City,2020-11-15,25,Standard
+D01023,Capital City,2022-12-03,0,Standard
+D01024,Capital City,2022-08-22,4,Electric
+D01025,Capital City,2021-01-30,23,Standard
+D01026,Capital City,2021-09-28,15,Standard
+D01027,Capital City,2021-04-08,21,Standard
+D01028,Metroville,2021-11-05,14,Standard
+D01029,Metroville,2021-09-29,15,Standard
+D01030,Capital City,2022-02-28,10,Standard
+D01031,Metroville,2021-06-11,18,Standard
+D01032,Capital City,2022-05-02,8,Standard
+D01033,Metroville,2021-11-24,13,Standard
+D01034,Capital City,2021-01-01,24,Standard
+D01035,Metroville,2020-03-16,34,Premium
+D01036,Metroville,2020-06-05,31,Standard
+D01037,Metroville,2022-12-08,0,Electric
+D01038,Metroville,2020-01-24,35,Standard
+D01039,Metroville,2021-09-21,15,XL
+D01040,Metroville,2021-11-13,13,Standard
+D01041,Capital City,2020-12-18,24,Electric
+D01042,Capital City,2022-10-26,2,Standard
+D01043,Metroville,2020-10-07,27,Standard
+D01044,Capital City,2022-06-13,6,Premium
+D01045,Capital City,2021-02-26,22,Standard
+D01046,Capital City,2020-02-27,34,Electric
+D01047,Capital City,2022-08-17,4,Premium
+D01048,Capital City,2021-06-25,18,Standard
+D01049,Metroville,2020-01-02,36,Standard
+D01050,Metroville,2022-07-23,5,Standard
+D01051,Metroville,2022-09-09,3,Premium
+D01052,Metroville,2020-07-01,30,Standard
+D01053,Metroville,2020-01-27,35,Standard
+D01054,Metroville,2021-08-12,16,Electric
+D01055,Metroville,2021-08-18,16,Standard
+D01056,Metroville,2021-07-26,17,Premium
+D01057,Capital City,2021-12-23,12,Standard
+D01058,Capital City,2021-08-18,16,XL
+D01059,Metroville,2021-09-21,15,Standard
+D01060,Metroville,2020-06-11,31,Standard
+D01061,Capital City,2022-01-03,12,Standard
+D01062,Metroville,2022-10-11,2,Standard
+D01063,Metroville,2021-07-06,18,XL
+D01064,Metroville,2021-06-12,18,Standard
+D01065,Capital City,2022-06-28,6,Standard
+D01066,Metroville,2021-12-08,12,Standard
+D01067,Metroville,2022-08-24,4,Standard
+D01068,Metroville,2022-04-05,9,Standard
+D01069,Metroville,2020-01-27,35,Standard
+D01070,Capital City,2021-04-21,20,Standard
+D01071,Capital City,2022-08-30,4,XL
+D01072,Metroville,2021-11-02,14,Premium
+D01073,Capital City,2021-09-22,15,Standard
+D01074,Capital City,2021-08-20,16,Standard
+D01075,Metroville,2020-04-29,32,XL
+D01076,Metroville,2020-05-26,31,Premium
+D01077,Capital City,2022-06-14,6,Electric
+D01078,Metroville,2022-09-19,3,Electric
+D01079,Metroville,2021-03-19,21,Standard
+D01080,Metroville,2022-08-05,4,Premium
+D01081,Metroville,2021-11-25,13,Standard
+D01082,Metroville,2020-04-27,32,Standard
+D01083,Capital City,2022-05-08,7,Standard
+D01084,Metroville,2020-07-10,30,XL
+D01085,Metroville,2022-07-15,5,XL
+D01086,Metroville,2020-05-02,32,Standard
+D01087,Metroville,2021-11-23,13,Standard
+D01088,Capital City,2022-06-11,6,Standard
+D01089,Capital City,2021-10-18,14,Standard
+D01090,Metroville,2020-04-09,33,Premium
+D01091,Capital City,2021-04-27,20,XL
+D01092,Capital City,2022-12-13,0,Standard
+D01093,Capital City,2020-08-04,29,Standard
+D01094,Metroville,2022-05-18,7,Electric
+D01095,Metroville,2020-07-09,30,Premium
+D01096,Metroville,2021-11-29,13,Standard
+D01097,Metroville,2020-06-11,31,Standard
+D01098,Metroville,2022-12-31,0,Standard
+D01099,Capital City,2021-08-04,17,Standard
+D01100,Metroville,2020-09-20,27,XL
+D01101,Capital City,2021-06-26,18,Standard
+D01102,Capital City,2020-03-29,33,Standard
+D01103,Metroville,2022-01-05,12,XL
+D01104,Capital City,2021-02-27,22,Standard
+D01105,Metroville,2020-02-28,34,Standard
+D01106,Metroville,2020-04-17,32,XL
+D01107,Metroville,2020-02-13,35,Standard
+D01108,Metroville,2021-05-30,19,XL
+D01109,Metroville,2021-04-28,20,Premium
+D01110,Capital City,2021-07-09,18,Standard
+D01111,Capital City,2020-01-08,36,Premium
+D01112,Metroville,2021-08-10,16,Standard
+D01113,Capital City,2021-02-02,23,Standard
+D01114,Metroville,2021-06-17,18,Standard
+D01115,Capital City,2020-03-07,34,Standard
+D01116,Metroville,2021-04-09,21,Standard
+D01117,Capital City,2020-07-14,30,Standard
+D01118,Metroville,2022-05-18,7,Standard
+D01119,Metroville,2021-12-24,12,Standard
+D01120,Capital City,2020-04-08,33,Premium
+D01121,Capital City,2022-12-19,0,Standard
+D01122,Metroville,2021-03-19,21,Electric
+D01123,Metroville,2020-02-23,34,Premium
+D01124,Capital City,2020-05-13,32,Premium
+D01125,Metroville,2020-03-22,33,Standard
+D01126,Metroville,2022-02-01,11,Premium
+D01127,Capital City,2021-12-31,12,Premium
+D01128,Metroville,2022-08-20,4,XL
+D01129,Capital City,2020-07-31,29,Standard
+D01130,Metroville,2021-04-18,20,Premium
+D01131,Metroville,2022-06-22,6,Standard
+D01132,Metroville,2020-07-08,30,XL
+D01133,Metroville,2021-01-30,23,Standard
+D01134,Capital City,2021-12-23,12,Premium
+D01135,Capital City,2021-12-01,13,Standard
+D01136,Metroville,2022-05-24,7,Premium
+D01137,Capital City,2021-09-14,15,Standard
+D01138,Metroville,2021-10-22,14,Standard
+D01139,Capital City,2021-04-12,20,Standard
+D01140,Metroville,2020-03-10,34,Standard
+D01141,Metroville,2021-04-16,20,Standard
+D01142,Capital City,2021-03-17,21,Premium
+D01143,Metroville,2020-01-11,36,Standard
+D01144,Metroville,2020-05-10,32,Premium
+D01145,Metroville,2022-06-05,7,Electric
+D01146,Capital City,2021-04-27,20,Standard
+D01147,Capital City,2021-10-28,14,Premium
+D01148,Metroville,2022-02-19,10,Standard
+D01149,Metroville,2021-03-09,22,Standard
+D01150,Metroville,2022-02-15,10,Standard
+D01151,Metroville,2021-12-04,13,Standard
+D01152,Capital City,2020-10-12,27,Premium
+D01153,Capital City,2022-01-15,11,Standard
+D01154,Capital City,2022-02-12,10,Electric
+D01155,Metroville,2022-02-14,10,Premium
+D01156,Metroville,2021-03-06,22,XL
+D01157,Capital City,2020-02-09,35,Electric
+D01158,Metroville,2020-05-06,32,Standard
+D01159,Metroville,2020-08-31,28,Standard
+D01160,Metroville,2021-06-29,18,Standard
+D01161,Capital City,2021-09-20,15,Standard
+D01162,Capital City,2021-07-12,17,Standard
+D01163,Metroville,2020-05-10,32,Premium
+D01164,Capital City,2021-04-20,20,Standard
+D01165,Capital City,2020-12-03,25,Standard
+D01166,Capital City,2022-03-11,9,XL
+D01167,Metroville,2021-04-14,20,Electric
+D01168,Capital City,2021-02-17,22,Electric
+D01169,Capital City,2021-01-07,24,XL
+D01170,Metroville,2021-03-27,21,Standard
+D01171,Capital City,2020-06-24,30,Premium
+D01172,Metroville,2021-04-11,21,Standard
+D01173,Capital City,2020-08-13,29,Standard
+D01174,Metroville,2020-10-18,26,Standard
+D01175,Capital City,2020-08-30,28,Standard
+D01176,Metroville,2022-12-21,0,XL
+D01177,Capital City,2020-09-26,27,Standard
+D01178,Metroville,2022-09-10,3,Standard
+D01179,Capital City,2020-09-16,27,Standard
+D01180,Metroville,2021-01-07,24,XL
+D01181,Capital City,2022-03-21,9,Standard
+D01182,Metroville,2020-06-10,31,Standard
+D01183,Metroville,2021-06-19,18,Standard
+D01184,Metroville,2022-11-23,1,Standard
+D01185,Metroville,2021-11-13,13,XL
+D01186,Capital City,2021-10-31,14,Standard
+D01187,Capital City,2021-07-26,17,Premium
+D01188,Capital City,2021-05-08,20,Standard
+D01189,Metroville,2020-11-28,25,Standard
+D01190,Metroville,2022-11-14,1,Standard
+D01191,Capital City,2021-03-13,21,Standard
+D01192,Capital City,2020-08-09,29,Standard
+D01193,Capital City,2020-11-09,26,Standard
+D01194,Capital City,2021-03-05,22,Standard
+D01195,Capital City,2021-11-19,13,Standard
+D01196,Capital City,2021-10-18,14,Standard
+D01197,Capital City,2020-03-07,34,XL
+D01198,Capital City,2020-07-14,30,Standard
+D01199,Capital City,2021-06-19,18,Standard
+D01200,Metroville,2022-05-28,7,Standard
+D01201,Metroville,2022-08-02,5,Premium
+D01202,Metroville,2021-08-22,16,Standard
+D01203,Capital City,2022-02-07,10,Electric
+D01204,Capital City,2021-03-06,22,Premium
+D01205,Metroville,2020-04-24,32,XL
+D01206,Capital City,2020-05-14,32,Standard
+D01207,Metroville,2022-09-29,3,XL
+D01208,Capital City,2020-10-25,26,Standard
+D01209,Metroville,2020-04-09,33,XL
+D01210,Metroville,2021-08-08,17,Standard
+D01211,Capital City,2021-06-07,19,Standard
+D01212,Metroville,2020-11-24,25,Electric
+D01213,Capital City,2022-09-02,4,XL
+D01214,Capital City,2022-06-08,6,Premium
+D01215,Capital City,2022-09-09,3,Standard
+D01216,Capital City,2021-01-30,23,Standard
+D01217,Capital City,2021-06-15,18,Standard
+D01218,Metroville,2020-12-06,25,Standard
+D01219,Capital City,2020-07-18,29,Electric
+D01220,Capital City,2021-05-29,19,Standard
+D01221,Metroville,2022-05-19,7,Standard
+D01222,Metroville,2020-05-10,32,XL
+D01223,Capital City,2022-04-01,9,Standard
+D01224,Metroville,2022-08-03,5,Standard
+D01225,Metroville,2021-03-08,22,XL
+D01226,Capital City,2020-09-06,28,XL
+D01227,Metroville,2022-02-25,10,Standard
+D01228,Metroville,2022-02-27,10,Standard
+D01229,Capital City,2021-04-29,20,XL
+D01230,Capital City,2021-11-18,13,Standard
+D01231,Capital City,2022-07-05,6,Standard
+D01232,Metroville,2020-07-18,29,Standard
+D01233,Metroville,2021-08-17,16,XL
+D01234,Capital City,2021-03-01,22,Standard
+D01235,Metroville,2021-07-17,17,Standard
+D01236,Metroville,2020-01-10,36,Standard
+D01237,Capital City,2021-05-15,19,Standard
+D01238,Capital City,2022-11-18,1,Standard
+D01239,Metroville,2022-03-20,9,Standard
+D01240,Capital City,2022-08-15,4,Standard
+D01241,Metroville,2021-03-30,21,Electric
+D01242,Metroville,2020-12-23,24,Electric
+D01243,Metroville,2020-07-02,30,XL
+D01244,Metroville,2021-10-19,14,Standard
+D01245,Metroville,2021-12-20,12,Standard
+D01246,Capital City,2021-03-15,21,XL
+D01247,Metroville,2020-05-17,31,Standard
+D01248,Metroville,2021-09-22,15,Premium
+D01249,Metroville,2020-06-02,31,Standard
+D01250,Capital City,2020-12-21,24,Standard
+D01251,Metroville,2021-02-18,22,Standard
+D01252,Capital City,2021-11-20,13,Standard
+D01253,Capital City,2021-07-20,17,Standard
+D01254,Metroville,2021-07-28,17,XL
+D01255,Metroville,2022-11-15,1,Standard
+D01256,Metroville,2022-03-20,9,Standard
+D01257,Capital City,2022-05-02,8,Standard
+D01258,Capital City,2020-09-12,28,Premium
+D01259,Capital City,2020-08-09,29,XL
+D01260,Capital City,2020-10-12,27,Standard
+D01261,Metroville,2020-04-10,33,Standard
+D01262,Capital City,2022-09-25,3,XL
+D01263,Metroville,2020-01-15,36,XL
+D01264,Metroville,2022-08-31,4,Standard
+D01265,Metroville,2020-02-17,34,Standard
+D01266,Capital City,2020-11-28,25,Standard
+D01267,Metroville,2022-11-29,1,Electric
+D01268,Capital City,2020-07-20,29,Standard
+D01269,Metroville,2022-10-28,2,Standard
+D01270,Capital City,2020-03-05,34,Electric
+D01271,Capital City,2021-03-03,22,Standard
+D01272,Metroville,2020-03-30,33,Standard
+D01273,Metroville,2021-06-02,19,Standard
+D01274,Capital City,2021-02-17,22,Standard
+D01275,Metroville,2022-08-17,4,Premium
+D01276,Metroville,2022-07-31,5,XL
+D01277,Metroville,2022-06-27,6,Standard
+D01278,Metroville,2022-05-16,7,Electric
+D01279,Capital City,2020-01-08,36,Standard
+D01280,Metroville,2022-02-11,10,Premium
+D01281,Metroville,2020-02-15,35,Electric
+D01282,Capital City,2022-07-06,5,Premium
+D01283,Capital City,2020-05-17,31,Standard
+D01284,Metroville,2021-12-07,13,Standard
+D01285,Metroville,2022-08-05,4,Electric
+D01286,Metroville,2020-08-02,29,XL
+D01287,Capital City,2021-06-13,18,Standard
+D01288,Metroville,2020-05-23,31,Standard
+D01289,Metroville,2020-06-21,30,Standard
+D01290,Metroville,2022-02-24,10,Standard
+D01291,Capital City,2021-02-24,22,Standard
+D01292,Metroville,2022-08-05,4,XL
+D01293,Metroville,2021-12-25,12,Standard
+D01294,Capital City,2021-02-05,23,Electric
+D01295,Capital City,2020-06-16,30,Standard
+D01296,Metroville,2020-01-17,36,Standard
+D01297,Capital City,2020-07-30,29,Standard
+D01298,Metroville,2022-11-19,1,XL
+D01299,Capital City,2020-10-01,27,Premium
+D01300,Metroville,2021-05-10,20,Standard
+D01301,Capital City,2022-12-19,0,Standard
+D01302,Metroville,2020-10-25,26,Standard
+D01303,Capital City,2022-11-24,1,Standard
+D01304,Capital City,2022-12-15,0,Standard
+D01305,Metroville,2021-09-27,15,Electric
+D01306,Metroville,2021-03-12,22,Premium
+D01307,Metroville,2020-08-10,29,Standard
+D01308,Capital City,2022-02-27,10,XL
+D01309,Capital City,2021-07-20,17,Standard
+D01310,Metroville,2021-10-02,15,Electric
+D01311,Metroville,2021-03-04,22,XL
+D01312,Metroville,2020-01-07,36,Electric
+D01313,Capital City,2020-06-08,31,Standard
+D01314,Capital City,2021-11-17,13,Standard
+D01315,Metroville,2021-01-05,24,Standard
+D01316,Metroville,2022-02-23,10,Standard
+D01317,Metroville,2021-12-11,12,Standard
+D01318,Metroville,2022-03-04,10,Standard
+D01319,Metroville,2021-11-05,14,Premium
+D01320,Capital City,2021-04-10,21,XL
+D01321,Metroville,2021-12-26,12,Standard
+D01322,Capital City,2022-06-09,6,Premium
+D01323,Metroville,2022-11-09,1,Premium
+D01324,Metroville,2020-01-05,36,Standard
+D01325,Capital City,2022-10-13,2,Standard
+D01326,Metroville,2022-04-16,8,Standard
+D01327,Metroville,2021-01-18,23,Standard
+D01328,Metroville,2022-08-13,4,Electric
+D01329,Capital City,2021-03-02,22,Standard
+D01330,Metroville,2021-03-27,21,Standard
+D01331,Capital City,2021-09-17,15,Standard
+D01332,Metroville,2021-10-31,14,Standard
+D01333,Metroville,2021-11-14,13,Premium
+D01334,Capital City,2021-04-21,20,XL
+D01335,Metroville,2022-02-01,11,Premium
+D01336,Metroville,2020-08-16,28,Standard
+D01337,Metroville,2021-06-25,18,Standard
+D01338,Metroville,2021-09-11,15,XL
+D01339,Metroville,2021-10-14,14,Standard
+D01340,Capital City,2021-01-04,24,Standard
+D01341,Capital City,2022-11-07,1,XL
+D01342,Metroville,2022-03-26,9,Standard
+D01343,Capital City,2020-07-15,30,XL
+D01344,Metroville,2022-04-24,8,Standard
+D01345,Metroville,2020-11-24,25,XL
+D01346,Metroville,2022-11-10,1,Electric
+D01347,Capital City,2020-07-06,30,XL
+D01348,Capital City,2021-10-31,14,Standard
+D01349,Metroville,2020-11-13,25,Standard
+D01350,Metroville,2022-09-23,3,Standard
+D01351,Capital City,2020-06-30,30,Standard
+D01352,Capital City,2020-07-17,29,Standard
+D01353,Metroville,2020-10-06,27,Standard
+D01354,Capital City,2021-11-21,13,XL
+D01355,Metroville,2021-11-06,14,Standard
+D01356,Capital City,2020-11-13,25,Standard
+D01357,Metroville,2022-04-21,8,Standard
+D01358,Metroville,2022-06-25,6,Standard
+D01359,Metroville,2022-01-08,11,Premium
+D01360,Metroville,2020-02-29,34,Premium
+D01361,Metroville,2020-02-09,35,Standard
+D01362,Metroville,2022-04-27,8,Premium
+D01363,Metroville,2022-02-02,11,Standard
+D01364,Metroville,2021-10-29,14,Premium
+D01365,Metroville,2022-04-30,8,Standard
+D01366,Metroville,2020-04-05,33,Premium
+D01367,Metroville,2020-12-29,24,XL
+D01368,Capital City,2021-03-24,21,XL
+D01369,Metroville,2020-09-03,28,Standard
+D01370,Capital City,2021-12-06,13,Standard
+D01371,Metroville,2021-10-28,14,Standard
+D01372,Capital City,2022-06-30,6,Standard
+D01373,Metroville,2020-02-28,34,Premium
+D01374,Metroville,2020-12-26,24,Electric
+D01375,Metroville,2020-04-28,32,Premium
+D01376,Metroville,2021-07-28,17,XL
+D01377,Capital City,2020-02-25,34,XL
+D01378,Capital City,2022-05-17,7,Standard
+D01379,Capital City,2020-06-10,31,Premium
+D01380,Capital City,2022-11-29,1,Premium
+D01381,Metroville,2022-12-18,0,Premium
+D01382,Metroville,2020-11-14,25,Premium
+D01383,Metroville,2020-08-24,28,Standard
+D01384,Capital City,2020-10-04,27,Electric
+D01385,Capital City,2022-06-11,6,XL
+D01386,Capital City,2021-01-05,24,Premium
+D01387,Metroville,2020-12-24,24,Electric
+D01388,Capital City,2021-04-07,21,Premium
+D01389,Capital City,2022-08-21,4,Standard
+D01390,Metroville,2020-07-26,29,Electric
+D01391,Metroville,2021-04-26,20,Premium
+D01392,Metroville,2021-09-19,15,Premium
+D01393,Capital City,2022-07-13,5,Premium
+D01394,Metroville,2020-10-25,26,Standard
+D01395,Capital City,2020-05-11,32,Electric
+D01396,Metroville,2022-11-30,1,Standard
+D01397,Metroville,2021-06-18,18,Electric
+D01398,Capital City,2021-03-10,22,Electric
+D01399,Metroville,2022-10-01,3,Standard
+D01400,Capital City,2022-03-19,9,Standard
+D01401,Metroville,2021-08-10,16,Standard
+D01402,Metroville,2022-01-03,12,Standard
+D01403,Metroville,2022-12-14,0,Standard
+D01404,Metroville,2022-04-14,8,XL
+D01405,Metroville,2020-02-04,35,Standard
+D01406,Metroville,2022-02-17,10,Standard
+D01407,Capital City,2022-03-20,9,XL
+D01408,Capital City,2020-05-14,32,Standard
+D01409,Metroville,2022-10-14,2,Standard
+D01410,Capital City,2022-08-29,4,Premium
+D01411,Metroville,2021-10-29,14,Standard
+D01412,Metroville,2021-05-11,20,Standard
+D01413,Capital City,2020-12-01,25,Standard
+D01414,Capital City,2020-09-04,28,Standard
+D01415,Metroville,2022-02-13,10,Standard
+D01416,Capital City,2020-08-26,28,Standard
+D01417,Metroville,2022-01-13,11,XL
+D01418,Metroville,2022-01-09,11,Standard
+D01419,Metroville,2020-02-04,35,Premium
+D01420,Metroville,2022-02-25,10,Premium
+D01421,Metroville,2021-12-26,12,Standard
+D01422,Capital City,2020-12-15,24,Premium
+D01423,Capital City,2022-05-22,7,Standard
+D01424,Metroville,2022-02-03,11,Premium
+D01425,Metroville,2022-11-01,2,Standard
+D01426,Metroville,2020-03-19,33,Standard
+D01427,Metroville,2021-11-10,13,Electric
+D01428,Capital City,2021-04-15,20,Electric
+D01429,Capital City,2020-09-27,27,Standard
+D01430,Metroville,2020-11-28,25,Standard
+D01431,Capital City,2021-07-07,18,Standard
+D01432,Metroville,2021-03-15,21,Standard
+D01433,Metroville,2022-11-04,1,Standard
+D01434,Metroville,2022-11-10,1,XL
+D01435,Metroville,2021-02-21,22,Electric
+D01436,Metroville,2022-11-04,1,Electric
+D01437,Metroville,2020-05-13,32,Premium
+D01438,Metroville,2022-10-23,2,Premium
+D01439,Capital City,2022-03-12,9,Standard
+D01440,Metroville,2020-09-19,27,Standard
+D01441,Metroville,2022-09-28,3,Standard
+D01442,Capital City,2020-11-20,25,Standard
+D01443,Capital City,2020-01-22,35,XL
+D01444,Capital City,2022-01-19,11,Standard
+D01445,Metroville,2022-02-12,10,Standard
+D01446,Metroville,2022-06-10,6,Standard
+D01447,Capital City,2022-12-02,1,Premium
+D01448,Metroville,2021-01-17,23,Standard
+D01449,Metroville,2021-10-02,15,Electric
+D01450,Capital City,2022-06-27,6,Standard
+D01451,Metroville,2020-08-25,28,Standard
+D01452,Metroville,2022-08-19,4,Standard
+D01453,Capital City,2022-05-16,7,Standard
+D01454,Capital City,2020-05-02,32,Standard
+D01455,Capital City,2020-05-25,31,Premium
+D01456,Metroville,2020-09-03,28,Premium
+D01457,Metroville,2020-07-14,30,Standard
+D01458,Metroville,2022-04-01,9,Standard
+D01459,Metroville,2022-12-31,0,Premium
+D01460,Metroville,2021-04-04,21,Standard
+D01461,Capital City,2020-05-01,32,Premium
+D01462,Metroville,2020-05-15,32,Standard
+D01463,Metroville,2021-07-24,17,Standard
+D01464,Capital City,2022-04-14,8,Standard
+D01465,Metroville,2021-03-11,22,Electric
+D01466,Capital City,2020-12-14,24,Standard
+D01467,Capital City,2022-06-18,6,XL
+D01468,Metroville,2020-04-28,32,XL
+D01469,Metroville,2020-03-28,33,XL
+D01470,Capital City,2021-11-26,13,Standard
+D01471,Capital City,2022-04-19,8,Premium
+D01472,Capital City,2021-10-09,14,XL
+D01473,Metroville,2020-02-12,35,Premium
+D01474,Capital City,2022-04-11,8,Premium
+D01475,Capital City,2022-03-15,9,Standard
+D01476,Metroville,2021-09-27,15,XL
+D01477,Capital City,2022-07-17,5,Standard
+D01478,Metroville,2022-06-21,6,XL
+D01479,Capital City,2020-09-26,27,Premium
+D01480,Metroville,2021-06-02,19,Premium
+D01481,Capital City,2022-05-31,7,Premium
+D01482,Capital City,2021-08-08,17,Standard
+D01483,Capital City,2021-09-25,15,XL
+D01484,Metroville,2021-08-06,17,Electric
+D01485,Capital City,2021-12-19,12,XL
+D01486,Metroville,2021-04-25,20,Standard
+D01487,Metroville,2021-02-27,22,Standard
+D01488,Metroville,2020-05-30,31,Standard
+D01489,Metroville,2020-02-02,35,Electric
+D01490,Metroville,2020-02-08,35,Standard
+D01491,Metroville,2021-07-04,18,Standard
+D01492,Capital City,2022-04-07,8,Standard
+D01493,Capital City,2021-03-01,22,Premium
+D01494,Metroville,2020-08-20,28,Standard
+D01495,Metroville,2020-11-25,25,Standard
+D01496,Metroville,2022-03-10,9,XL
+D01497,Metroville,2022-10-23,2,Standard
+D01498,Metroville,2020-11-04,26,Premium
+D01499,Metroville,2022-09-25,3,Standard
+D01500,Capital City,2021-11-22,13,Standard
+D01501,Metroville,2021-12-24,12,Standard
+D01502,Capital City,2022-12-03,0,Standard
+D01503,Metroville,2022-03-15,9,Electric
+D01504,Metroville,2022-10-24,2,Premium
+D01505,Metroville,2021-09-01,16,Standard
+D01506,Capital City,2022-02-04,11,Electric
+D01507,Metroville,2020-10-11,27,Premium
+D01508,Capital City,2021-03-12,22,Standard
+D01509,Capital City,2022-12-09,0,Standard
+D01510,Metroville,2020-04-22,32,Standard
+D01511,Capital City,2020-04-16,33,Standard
+D01512,Capital City,2021-01-27,23,Standard
+D01513,Metroville,2021-12-13,12,Premium
+D01514,Capital City,2020-09-23,27,Standard
+D01515,Metroville,2020-06-20,30,Electric
+D01516,Metroville,2021-10-19,14,Premium
+D01517,Capital City,2020-06-17,30,Premium
+D01518,Capital City,2021-07-12,17,Premium
+D01519,Metroville,2020-07-15,30,Standard
+D01520,Metroville,2022-05-05,8,Standard
+D01521,Capital City,2021-06-08,19,Standard
+D01522,Capital City,2020-02-13,35,Premium
+D01523,Capital City,2021-02-10,23,Standard
+D01524,Capital City,2021-02-10,23,Standard
+D01525,Capital City,2021-12-16,12,Standard
+D01526,Capital City,2021-07-28,17,Standard
+D01527,Metroville,2021-02-02,23,Standard
+D01528,Capital City,2020-04-08,33,Premium
+D01529,Metroville,2020-06-11,31,Standard
+D01530,Metroville,2022-06-18,6,Standard
+D01531,Metroville,2021-01-30,23,Standard
+D01532,Capital City,2020-02-03,35,Standard
+D01533,Capital City,2021-07-12,17,Standard
+D01534,Capital City,2022-08-25,4,Premium
+D01535,Metroville,2020-12-14,24,Standard
+D01536,Metroville,2020-08-11,29,Standard
+D01537,Metroville,2022-11-10,1,Standard
+D01538,Metroville,2022-04-18,8,Standard
+D01539,Metroville,2022-06-22,6,Standard
+D01540,Metroville,2021-09-23,15,Premium
+D01541,Capital City,2020-06-09,31,Electric
+D01542,Metroville,2022-05-19,7,Standard
+D01543,Metroville,2022-04-30,8,Standard
+D01544,Capital City,2021-05-06,20,Standard
+D01545,Capital City,2022-04-18,8,Premium
+D01546,Capital City,2021-01-20,23,Standard
+D01547,Metroville,2021-04-13,20,Standard
+D01548,Metroville,2020-06-19,30,Electric
+D01549,Metroville,2020-07-22,29,Standard
+D01550,Metroville,2022-07-16,5,Standard
+D01551,Metroville,2020-03-04,34,Standard
+D01552,Capital City,2021-12-24,12,Electric
+D01553,Metroville,2020-10-09,27,Standard
+D01554,Metroville,2020-02-20,34,XL
+D01555,Metroville,2021-11-28,13,Electric
+D01556,Metroville,2022-03-17,9,Standard
+D01557,Metroville,2021-10-04,15,Electric
+D01558,Metroville,2022-11-28,1,Standard
+D01559,Metroville,2021-11-21,13,Standard
+D01560,Metroville,2021-01-07,24,XL
+D01561,Capital City,2020-01-21,35,Electric
+D01562,Metroville,2022-02-25,10,Standard
+D01563,Metroville,2020-01-11,36,Standard
+D01564,Capital City,2020-01-22,35,Standard
+D01565,Capital City,2022-09-27,3,XL
+D01566,Metroville,2020-01-06,36,Premium
+D01567,Metroville,2020-12-20,24,Standard
+D01568,Metroville,2021-09-17,15,Electric
+D01569,Metroville,2020-01-10,36,Premium
+D01570,Capital City,2022-01-25,11,XL
+D01571,Capital City,2020-11-26,25,Standard
+D01572,Capital City,2022-02-10,10,Standard
+D01573,Metroville,2022-06-10,6,Standard
+D01574,Metroville,2022-01-27,11,Electric
+D01575,Metroville,2021-09-25,15,Standard
+D01576,Metroville,2022-02-24,10,Standard
+D01577,Metroville,2020-08-16,28,Standard
+D01578,Capital City,2021-11-13,13,Standard
+D01579,Metroville,2021-06-10,19,Standard
+D01580,Metroville,2022-09-23,3,Electric
+D01581,Metroville,2020-10-03,27,Standard
+D01582,Metroville,2021-05-04,20,XL
+D01583,Metroville,2020-10-25,26,Standard
+D01584,Metroville,2020-01-29,35,Electric
+D01585,Capital City,2020-08-22,28,Standard
+D01586,Capital City,2020-05-01,32,Standard
+D01587,Metroville,2020-05-18,31,Standard
+D01588,Capital City,2021-03-13,21,Standard
+D01589,Capital City,2022-03-29,9,Standard
+D01590,Capital City,2021-04-27,20,Standard
+D01591,Metroville,2023-01-01,0,Standard
+D01592,Metroville,2022-08-01,5,Standard
+D01593,Metroville,2021-08-05,17,Electric
+D01594,Metroville,2021-04-03,21,Standard
+D01595,Metroville,2021-10-31,14,Standard
+D01596,Metroville,2022-08-18,4,XL
+D01597,Metroville,2022-09-02,4,XL
+D01598,Metroville,2020-09-13,28,Electric
+D01599,Metroville,2022-03-20,9,Standard
+D01600,Metroville,2022-03-13,9,Electric
+D01601,Capital City,2020-04-22,32,Standard
+D01602,Metroville,2022-02-07,10,Electric
+D01603,Metroville,2021-08-23,16,Standard
+D01604,Capital City,2020-10-22,26,XL
+D01605,Capital City,2022-02-09,10,Electric
+D01606,Metroville,2020-08-26,28,Standard
+D01607,Capital City,2020-10-23,26,Premium
+D01608,Capital City,2021-12-01,13,Electric
+D01609,Metroville,2021-08-10,16,Standard
+D01610,Metroville,2021-01-14,23,Premium
+D01611,Metroville,2022-08-10,4,XL
+D01612,Metroville,2021-09-25,15,Standard
+D01613,Metroville,2021-06-15,18,Premium
+D01614,Metroville,2022-03-20,9,Premium
+D01615,Metroville,2020-10-01,27,Standard
+D01616,Metroville,2022-04-24,8,Premium
+D01617,Metroville,2022-02-25,10,Electric
+D01618,Metroville,2021-11-06,14,Standard
+D01619,Metroville,2020-07-07,30,Standard
+D01620,Metroville,2022-03-16,9,Standard
+D01621,Capital City,2021-06-16,18,Standard
+D01622,Metroville,2021-03-02,22,Standard
+D01623,Metroville,2022-12-10,0,Standard
+D01624,Capital City,2022-05-06,8,Premium
+D01625,Capital City,2020-01-31,35,Standard
+D01626,Metroville,2021-04-04,21,Standard
+D01627,Metroville,2020-01-24,35,Standard
+D01628,Metroville,2022-06-05,7,XL
+D01629,Capital City,2020-05-12,32,Standard
+D01630,Capital City,2021-09-13,15,Premium
+D01631,Metroville,2020-07-18,29,Electric
+D01632,Metroville,2021-04-30,20,Premium
+D01633,Metroville,2022-04-21,8,Standard
+D01634,Metroville,2020-06-15,31,XL
+D01635,Metroville,2022-02-21,10,Standard
+D01636,Metroville,2022-08-10,4,Standard
+D01637,Capital City,2021-02-01,23,XL
+D01638,Capital City,2021-06-23,18,Premium
+D01639,Capital City,2022-10-10,2,Premium
+D01640,Capital City,2020-11-11,26,Standard
+D01641,Metroville,2021-07-27,17,Electric
+D01642,Capital City,2022-05-15,7,XL
+D01643,Metroville,2020-05-21,31,XL
+D01644,Capital City,2020-08-12,29,Standard
+D01645,Metroville,2022-01-22,11,Standard
+D01646,Capital City,2020-04-09,33,Premium
+D01647,Capital City,2021-05-15,19,Standard
+D01648,Capital City,2021-09-28,15,Standard
+D01649,Metroville,2020-01-27,35,Standard
+D01650,Capital City,2022-06-04,7,Standard
+D01651,Metroville,2022-07-04,6,Standard
+D01652,Metroville,2020-12-20,24,XL
+D01653,Metroville,2021-08-25,16,Premium
+D01654,Capital City,2020-03-25,33,Standard
+D01655,Capital City,2020-07-30,29,Standard
+D01656,Capital City,2020-08-21,28,Standard
+D01657,Capital City,2022-09-07,3,Premium
+D01658,Metroville,2022-05-31,7,Standard
+D01659,Metroville,2021-06-07,19,Standard
+D01660,Metroville,2021-06-16,18,Electric
+D01661,Metroville,2021-08-04,17,Standard
+D01662,Metroville,2020-02-26,34,Standard
+D01663,Metroville,2021-02-27,22,Electric
+D01664,Capital City,2020-08-25,28,Standard
+D01665,Metroville,2021-08-05,17,Standard
+D01666,Capital City,2021-01-01,24,Premium
+D01667,Capital City,2022-07-15,5,Standard
+D01668,Capital City,2022-12-06,0,Standard
+D01669,Metroville,2022-06-08,6,Electric
+D01670,Metroville,2020-04-12,33,Standard
+D01671,Metroville,2021-08-22,16,Standard
+D01672,Metroville,2020-03-24,33,Standard
+D01673,Metroville,2021-10-05,15,XL
+D01674,Metroville,2020-07-27,29,Premium
+D01675,Metroville,2021-07-06,18,Standard
+D01676,Metroville,2022-06-03,7,Premium
+D01677,Capital City,2020-04-07,33,Standard
+D01678,Capital City,2020-11-23,25,XL
+D01679,Metroville,2020-02-04,35,Premium
+D01680,Metroville,2020-11-09,26,Standard
+D01681,Metroville,2022-10-07,2,Electric
+D01682,Metroville,2022-05-26,7,Electric
+D01683,Capital City,2022-06-14,6,Standard
+D01684,Metroville,2022-06-21,6,Premium
+D01685,Metroville,2022-05-06,8,Standard
+D01686,Capital City,2021-08-31,16,XL
+D01687,Capital City,2020-12-24,24,Standard
+D01688,Metroville,2020-08-21,28,Electric
+D01689,Capital City,2020-10-17,26,Standard
+D01690,Capital City,2022-10-12,2,Standard
+D01691,Metroville,2021-01-20,23,Standard
+D01692,Metroville,2020-07-14,30,XL
+D01693,Metroville,2020-06-02,31,Standard
+D01694,Capital City,2020-01-27,35,XL
+D01695,Metroville,2022-10-17,2,Premium
+D01696,Capital City,2020-10-07,27,Premium
+D01697,Capital City,2020-07-31,29,Standard
+D01698,Metroville,2022-11-10,1,XL
+D01699,Capital City,2021-10-16,14,Standard
+D01700,Metroville,2021-12-27,12,XL
+D01701,Metroville,2022-11-13,1,Standard
+D01702,Metroville,2021-02-27,22,Standard
+D01703,Metroville,2022-06-13,6,Standard
+D01704,Metroville,2021-05-13,19,Electric
+D01705,Capital City,2020-09-09,28,Electric
+D01706,Capital City,2022-11-04,1,Premium
+D01707,Metroville,2020-06-10,31,Standard
+D01708,Metroville,2021-07-31,17,Standard
+D01709,Metroville,2020-12-28,24,Electric
+D01710,Metroville,2021-01-27,23,Standard
+D01711,Capital City,2021-01-10,24,Standard
+D01712,Capital City,2021-08-10,16,Standard
+D01713,Metroville,2021-06-14,18,Electric
+D01714,Capital City,2020-07-02,30,Standard
+D01715,Metroville,2022-09-26,3,Premium
+D01716,Metroville,2021-03-08,22,XL
+D01717,Capital City,2020-06-07,31,Standard
+D01718,Capital City,2021-07-12,17,XL
+D01719,Metroville,2022-02-07,10,Electric
+D01720,Capital City,2021-10-30,14,Standard
+D01721,Capital City,2021-03-13,21,Standard
+D01722,Metroville,2020-10-02,27,XL
+D01723,Metroville,2021-01-18,23,XL
+D01724,Metroville,2022-01-14,11,Standard
+D01725,Capital City,2020-03-14,34,Electric
+D01726,Capital City,2022-07-03,6,XL
+D01727,Metroville,2021-02-17,22,XL
+D01728,Metroville,2021-01-11,24,Standard
+D01729,Metroville,2021-09-22,15,XL
+D01730,Metroville,2021-03-24,21,Standard
+D01731,Metroville,2021-04-15,20,Standard
+D01732,Capital City,2022-06-08,6,Standard
+D01733,Metroville,2022-06-30,6,Standard
+D01734,Metroville,2020-09-22,27,Standard
+D01735,Metroville,2021-04-01,21,Standard
+D01736,Metroville,2020-03-19,33,XL
+D01737,Capital City,2021-12-16,12,Standard
+D01738,Metroville,2020-11-09,26,XL
+D01739,Metroville,2021-11-13,13,Standard
+D01740,Metroville,2021-07-08,18,Electric
+D01741,Capital City,2020-04-12,33,Standard
+D01742,Metroville,2021-01-13,23,Standard
+D01743,Metroville,2021-02-10,23,Standard
+D01744,Capital City,2020-07-19,29,Standard
+D01745,Metroville,2020-12-22,24,Standard
+D01746,Metroville,2022-02-09,10,Electric
+D01747,Metroville,2022-01-21,11,Standard
+D01748,Metroville,2021-03-11,22,Standard
+D01749,Capital City,2022-11-30,1,Standard
+D01750,Metroville,2022-05-18,7,Standard
+D01751,Capital City,2021-12-09,12,Premium
+D01752,Capital City,2021-04-06,21,Standard
+D01753,Capital City,2020-03-01,34,Standard
+D01754,Metroville,2021-05-05,20,Premium
+D01755,Metroville,2022-01-02,12,Standard
+D01756,Metroville,2020-10-08,27,Standard
+D01757,Metroville,2022-07-30,5,Premium
+D01758,Metroville,2021-11-21,13,Premium
+D01759,Capital City,2022-06-24,6,Standard
+D01760,Metroville,2022-06-30,6,XL
+D01761,Capital City,2020-09-25,27,Standard
+D01762,Metroville,2021-07-11,17,Premium
+D01763,Metroville,2022-03-09,9,Premium
+D01764,Metroville,2021-02-04,23,XL
+D01765,Metroville,2020-01-06,36,Premium
+D01766,Capital City,2021-01-07,24,Standard
+D01767,Capital City,2020-10-11,27,Standard
+D01768,Metroville,2022-04-04,9,Electric
+D01769,Metroville,2020-11-04,26,Standard
+D01770,Metroville,2022-06-03,7,Standard
+D01771,Capital City,2021-05-10,20,Standard
+D01772,Metroville,2022-07-17,5,Standard
+D01773,Metroville,2021-03-09,22,Standard
+D01774,Capital City,2021-09-28,15,Standard
+D01775,Metroville,2020-07-09,30,XL
+D01776,Metroville,2022-10-10,2,Standard
+D01777,Capital City,2021-08-16,16,Standard
+D01778,Metroville,2022-02-18,10,Standard
+D01779,Metroville,2021-06-20,18,Standard
+D01780,Capital City,2022-11-09,1,Standard
+D01781,Capital City,2020-03-25,33,XL
+D01782,Capital City,2021-09-29,15,Standard
+D01783,Metroville,2021-10-10,14,Standard
+D01784,Capital City,2021-08-17,16,Standard
+D01785,Capital City,2021-09-26,15,Standard
+D01786,Capital City,2020-07-14,30,Standard
+D01787,Capital City,2021-10-16,14,Standard
+D01788,Capital City,2022-03-10,9,Standard
+D01789,Capital City,2022-12-07,0,Premium
+D01790,Metroville,2021-05-04,20,Standard
+D01791,Metroville,2021-08-20,16,Standard
+D01792,Capital City,2022-11-20,1,Standard
+D01793,Metroville,2020-04-17,32,Premium
+D01794,Metroville,2020-07-17,29,Electric
+D01795,Metroville,2020-09-05,28,Standard
+D01796,Metroville,2021-12-04,13,Standard
+D01797,Metroville,2020-09-09,28,Standard
+D01798,Metroville,2021-12-16,12,Standard
+D01799,Metroville,2020-02-04,35,Standard
+D01800,Capital City,2020-10-05,27,Electric
+D01801,Capital City,2020-10-31,26,XL
+D01802,Capital City,2021-07-15,17,Standard
+D01803,Metroville,2020-12-17,24,Standard
+D01804,Capital City,2021-07-11,17,XL
+D01805,Metroville,2020-08-01,29,Standard
+D01806,Capital City,2020-12-04,25,Standard
+D01807,Metroville,2020-12-16,24,Standard
+D01808,Capital City,2021-09-08,16,Standard
+D01809,Metroville,2021-03-17,21,Standard
+D01810,Metroville,2020-12-31,24,Standard
+D01811,Metroville,2022-07-28,5,Standard
+D01812,Metroville,2022-04-01,9,Standard
+D01813,Metroville,2021-03-14,21,XL
+D01814,Metroville,2021-08-14,16,Standard
+D01815,Capital City,2022-04-13,8,Standard
+D01816,Metroville,2022-06-18,6,Standard
+D01817,Capital City,2020-02-27,34,XL
+D01818,Metroville,2020-05-02,32,Premium
+D01819,Metroville,2021-03-30,21,Electric
+D01820,Metroville,2022-06-01,7,XL
+D01821,Metroville,2021-09-22,15,Standard
+D01822,Metroville,2021-01-18,23,Premium
+D01823,Capital City,2021-09-30,15,Standard
+D01824,Capital City,2020-05-24,31,Premium
+D01825,Capital City,2021-06-29,18,Standard
+D01826,Metroville,2022-09-15,3,Standard
+D01827,Metroville,2020-06-03,31,Premium
+D01828,Capital City,2020-07-19,29,Premium
+D01829,Metroville,2020-03-19,33,Premium
+D01830,Metroville,2020-07-22,29,Electric
+D01831,Metroville,2022-08-22,4,Premium
+D01832,Capital City,2022-01-16,11,Electric
+D01833,Metroville,2022-11-17,1,Standard
+D01834,Metroville,2020-06-27,30,Standard
+D01835,Capital City,2022-09-06,3,Electric
+D01836,Metroville,2021-01-20,23,Standard
+D01837,Capital City,2020-04-30,32,Standard
+D01838,Metroville,2022-03-05,10,XL
+D01839,Capital City,2022-08-24,4,Standard
+D01840,Metroville,2021-01-06,24,Standard
+D01841,Metroville,2022-08-21,4,Standard
+D01842,Metroville,2021-06-15,18,XL
+D01843,Capital City,2021-08-03,17,XL
+D01844,Metroville,2022-11-06,1,Standard
+D01845,Capital City,2020-04-01,33,Premium
+D01846,Capital City,2020-08-02,29,Electric
+D01847,Capital City,2022-04-03,9,Standard
+D01848,Metroville,2020-10-12,27,Standard
+D01849,Capital City,2021-10-18,14,Standard
+D01850,Capital City,2020-06-20,30,Standard
+D01851,Capital City,2021-04-07,21,Standard
+D01852,Metroville,2021-04-18,20,XL
+D01853,Metroville,2021-02-24,22,Standard
+D01854,Metroville,2021-09-12,15,XL
+D01855,Capital City,2020-02-26,34,Electric
+D01856,Capital City,2020-09-20,27,Premium
+D01857,Metroville,2022-03-12,9,Standard
+D01858,Metroville,2021-03-28,21,Standard
+D01859,Capital City,2022-12-19,0,Standard
+D01860,Metroville,2022-09-15,3,Standard
+D01861,Metroville,2020-12-29,24,Premium
+D01862,Metroville,2022-05-01,8,Premium
+D01863,Metroville,2022-08-09,4,Electric
+D01864,Metroville,2022-08-24,4,Standard
+D01865,Capital City,2020-01-13,36,Standard
+D01866,Metroville,2020-09-06,28,Standard
+D01867,Metroville,2022-02-05,11,XL
+D01868,Metroville,2021-11-29,13,Premium
+D01869,Metroville,2021-08-10,16,Standard
+D01870,Metroville,2021-12-30,12,XL
+D01871,Metroville,2021-12-26,12,Electric
+D01872,Metroville,2022-11-02,2,Premium
+D01873,Capital City,2020-03-24,33,Standard
+D01874,Capital City,2022-05-02,8,Standard
+D01875,Metroville,2021-02-21,22,Standard
+D01876,Capital City,2022-07-03,6,Standard
+D01877,Metroville,2022-06-23,6,Electric
+D01878,Metroville,2020-09-27,27,Standard
+D01879,Capital City,2020-10-30,26,Standard
+D01880,Metroville,2020-09-19,27,XL
+D01881,Metroville,2020-11-12,26,Standard
+D01882,Metroville,2020-05-05,32,Premium
+D01883,Metroville,2022-03-24,9,Standard
+D01884,Metroville,2021-01-28,23,Standard
+D01885,Capital City,2021-12-23,12,Standard
+D01886,Capital City,2022-06-19,6,Standard
+D01887,Metroville,2021-04-04,21,Standard
+D01888,Metroville,2021-01-04,24,Standard
+D01889,Capital City,2022-01-03,12,Premium
+D01890,Metroville,2020-08-03,29,Premium
+D01891,Capital City,2021-08-03,17,Standard
+D01892,Metroville,2020-03-14,34,Premium
+D01893,Metroville,2022-06-30,6,XL
+D01894,Capital City,2021-12-20,12,Standard
+D01895,Capital City,2021-07-17,17,Standard
+D01896,Metroville,2020-10-01,27,Standard
+D01897,Metroville,2021-11-17,13,Standard
+D01898,Metroville,2021-09-24,15,Premium
+D01899,Metroville,2021-01-12,23,Standard
+D01900,Metroville,2022-07-18,5,Standard
+D01901,Metroville,2021-02-05,23,Premium
+D01902,Metroville,2020-06-20,30,Premium
+D01903,Metroville,2022-06-23,6,Premium
+D01904,Metroville,2020-01-25,35,Standard
+D01905,Capital City,2021-07-23,17,Standard
+D01906,Capital City,2022-11-21,1,Premium
+D01907,Metroville,2022-08-30,4,XL
+D01908,Capital City,2022-09-02,4,Standard
+D01909,Metroville,2020-11-28,25,Standard
+D01910,Metroville,2022-06-20,6,Standard
+D01911,Capital City,2022-01-21,11,Premium
+D01912,Capital City,2022-12-29,0,Premium
+D01913,Metroville,2020-01-14,36,Standard
+D01914,Capital City,2022-12-07,0,Standard
+D01915,Capital City,2022-12-23,0,Standard
+D01916,Metroville,2021-03-03,22,Standard
+D01917,Metroville,2020-11-05,26,Standard
+D01918,Metroville,2021-04-14,20,Standard
+D01919,Metroville,2022-11-06,1,Standard
+D01920,Metroville,2020-11-25,25,XL
+D01921,Metroville,2022-08-12,4,Standard
+D01922,Capital City,2022-01-13,11,XL
+D01923,Metroville,2021-12-11,12,Standard
+D01924,Metroville,2020-03-17,34,Standard
+D01925,Capital City,2021-12-25,12,Electric
+D01926,Capital City,2021-10-11,14,Electric
+D01927,Metroville,2021-01-24,23,XL
+D01928,Metroville,2022-06-17,6,Standard
+D01929,Capital City,2022-02-19,10,Standard
+D01930,Metroville,2020-11-26,25,Premium
+D01931,Metroville,2022-01-04,12,Standard
+D01932,Metroville,2020-07-13,30,XL
+D01933,Metroville,2022-01-03,12,Standard
+D01934,Metroville,2020-02-27,34,XL
+D01935,Capital City,2022-03-03,10,Standard
+D01936,Metroville,2020-07-04,30,Standard
+D01937,Metroville,2022-10-31,2,Standard
+D01938,Metroville,2022-10-14,2,Premium
+D01939,Capital City,2022-04-30,8,Standard
+D01940,Metroville,2021-04-03,21,Standard
+D01941,Metroville,2021-05-15,19,Standard
+D01942,Metroville,2022-05-26,7,Standard
+D01943,Metroville,2021-01-17,23,Premium
+D01944,Metroville,2021-12-28,12,Standard
+D01945,Metroville,2020-02-05,35,XL
+D01946,Metroville,2022-01-24,11,Standard
+D01947,Capital City,2022-06-11,6,XL
+D01948,Capital City,2020-03-18,33,Standard
+D01949,Capital City,2021-12-02,13,Premium
+D01950,Capital City,2022-02-18,10,Standard
+D01951,Metroville,2021-02-10,23,Premium
+D01952,Capital City,2020-06-14,31,XL
+D01953,Capital City,2020-10-27,26,Standard
+D01954,Metroville,2020-06-28,30,Premium
+D01955,Capital City,2022-05-08,7,Premium
+D01956,Capital City,2022-08-20,4,Standard
+D01957,Metroville,2021-02-08,23,Electric
+D01958,Metroville,2021-08-15,16,Premium
+D01959,Capital City,2020-12-14,24,Standard
+D01960,Capital City,2022-03-18,9,Standard
+D01961,Capital City,2021-08-29,16,Standard
+D01962,Capital City,2020-04-01,33,Premium
+D01963,Metroville,2021-12-12,12,Premium
+D01964,Capital City,2020-09-26,27,Premium
+D01965,Capital City,2022-10-08,2,Standard
+D01966,Metroville,2020-12-29,24,Standard
+D01967,Capital City,2022-09-03,4,Standard
+D01968,Metroville,2020-04-23,32,Standard
+D01969,Metroville,2022-06-13,6,Electric
+D01970,Metroville,2020-02-02,35,Electric
+D01971,Metroville,2022-06-29,6,XL
+D01972,Metroville,2021-03-16,21,Standard
+D01973,Metroville,2020-01-18,35,Standard
+D01974,Metroville,2020-01-08,36,Standard
+D01975,Metroville,2020-01-29,35,Standard
+D01976,Capital City,2020-10-16,26,Standard
+D01977,Capital City,2021-11-16,13,Electric
+D01978,Metroville,2021-06-02,19,Standard
+D01979,Metroville,2021-03-16,21,Standard
+D01980,Capital City,2022-03-30,9,Standard
+D01981,Metroville,2020-06-28,30,Standard
+D01982,Capital City,2021-11-22,13,Premium
+D01983,Capital City,2021-05-12,19,Electric
+D01984,Metroville,2020-08-11,29,Standard
+D01985,Metroville,2020-09-26,27,Standard
+D01986,Metroville,2020-07-24,29,Standard
+D01987,Metroville,2020-11-20,25,Standard
+D01988,Capital City,2022-07-17,5,Electric
+D01989,Metroville,2020-04-02,33,Standard
+D01990,Metroville,2022-11-14,1,XL
+D01991,Capital City,2020-03-31,33,Standard
+D01992,Metroville,2022-06-02,7,Standard
+D01993,Metroville,2021-03-14,21,Premium
+D01994,Metroville,2020-04-15,33,Electric
+D01995,Metroville,2020-10-27,26,XL
+D01996,Metroville,2021-04-15,20,Standard
+D01997,Capital City,2020-03-18,33,Electric
+D01998,Capital City,2021-05-23,19,XL
+D01999,Capital City,2022-09-11,3,Standard
+D02000,Capital City,2020-01-17,36,XL
+D02001,Metroville,2022-10-08,2,Standard
+D02002,Capital City,2021-12-12,12,XL
+D02003,Metroville,2022-07-03,6,XL
+D02004,Capital City,2021-04-13,20,Standard
+D02005,Capital City,2022-01-11,11,Standard
+D02006,Metroville,2021-03-30,21,Standard
+D02007,Capital City,2022-09-25,3,Standard
+D02008,Capital City,2020-01-03,36,Standard
+D02009,Capital City,2022-11-05,1,XL
+D02010,Capital City,2022-09-27,3,XL
+D02011,Capital City,2021-04-21,20,Standard
+D02012,Metroville,2020-11-04,26,Standard
+D02013,Capital City,2021-12-12,12,Standard
+D02014,Metroville,2021-01-11,24,XL
+D02015,Capital City,2022-09-16,3,XL
+D02016,Metroville,2020-07-27,29,Standard
+D02017,Metroville,2020-02-25,34,Standard
+D02018,Metroville,2020-01-24,35,Standard
+D02019,Metroville,2022-01-01,12,Standard
+D02020,Metroville,2020-02-25,34,Standard
+D02021,Capital City,2020-12-03,25,Premium
+D02022,Capital City,2022-10-02,3,Standard
+D02023,Capital City,2021-10-19,14,Electric
+D02024,Metroville,2022-06-13,6,Standard
+D02025,Metroville,2020-06-09,31,Premium
+D02026,Metroville,2021-12-17,12,Electric
+D02027,Metroville,2021-10-05,15,Electric
+D02028,Capital City,2021-03-17,21,Electric
+D02029,Metroville,2022-08-05,4,Standard
+D02030,Capital City,2021-11-11,13,XL
+D02031,Metroville,2020-03-23,33,XL
+D02032,Metroville,2021-11-04,14,Standard
+D02033,Metroville,2022-12-01,1,Electric
+D02034,Metroville,2022-10-01,3,XL
+D02035,Metroville,2020-11-11,26,Premium
+D02036,Capital City,2021-11-06,14,Standard
+D02037,Metroville,2022-05-08,7,Premium
+D02038,Capital City,2021-05-17,19,Standard
+D02039,Metroville,2022-12-23,0,Standard
+D02040,Metroville,2021-08-27,16,Standard
+D02041,Capital City,2021-02-23,22,Standard
+D02042,Metroville,2022-01-04,12,XL
+D02043,Metroville,2020-10-25,26,Premium
+D02044,Capital City,2021-09-21,15,Standard
+D02045,Metroville,2020-12-01,25,Standard
+D02046,Metroville,2020-09-30,27,Standard
+D02047,Capital City,2022-10-02,3,Standard
+D02048,Capital City,2022-02-16,10,Standard
+D02049,Capital City,2022-03-17,9,XL
+D02050,Capital City,2021-08-15,16,Standard
+D02051,Metroville,2021-07-22,17,Standard
+D02052,Capital City,2020-08-19,28,XL
+D02053,Metroville,2021-04-07,21,Electric
+D02054,Capital City,2021-11-08,13,Standard
+D02055,Metroville,2021-06-22,18,XL
+D02056,Metroville,2020-09-15,27,XL
+D02057,Capital City,2022-12-12,0,Standard
+D02058,Capital City,2020-09-02,28,Standard
+D02059,Capital City,2020-09-06,28,Standard
+D02060,Metroville,2020-11-20,25,XL
+D02061,Metroville,2021-06-11,18,Premium
+D02062,Metroville,2021-12-09,12,Standard
+D02063,Capital City,2020-04-07,33,Standard
+D02064,Capital City,2021-07-31,17,Standard
+D02065,Metroville,2022-12-11,0,Standard
+D02066,Capital City,2020-10-14,26,Standard
+D02067,Metroville,2022-10-08,2,Electric
+D02068,Metroville,2020-06-26,30,Standard
+D02069,Metroville,2022-04-13,8,Standard
+D02070,Metroville,2021-10-02,15,Standard
+D02071,Metroville,2022-08-10,4,Standard
+D02072,Metroville,2022-05-12,7,Premium
+D02073,Capital City,2022-05-10,7,Standard
+D02074,Capital City,2022-02-10,10,XL
+D02075,Capital City,2020-04-06,33,Standard
+D02076,Capital City,2022-08-18,4,Standard
+D02077,Capital City,2021-12-22,12,Standard
+D02078,Metroville,2021-03-02,22,Standard
+D02079,Metroville,2022-01-24,11,Standard
+D02080,Metroville,2021-07-25,17,Standard
+D02081,Capital City,2020-10-08,27,XL
+D02082,Metroville,2021-05-28,19,Standard
+D02083,Metroville,2021-05-25,19,Standard
+D02084,Metroville,2021-05-28,19,Standard
+D02085,Capital City,2021-07-15,17,Standard
+D02086,Metroville,2022-05-24,7,Standard
+D02087,Metroville,2022-05-02,8,XL
+D02088,Metroville,2020-10-15,26,Standard
+D02089,Capital City,2021-11-14,13,Standard
+D02090,Metroville,2022-07-08,5,Standard
+D02091,Metroville,2020-03-18,33,Standard
+D02092,Capital City,2021-11-16,13,Standard
+D02093,Metroville,2022-04-16,8,Electric
+D02094,Metroville,2020-02-05,35,Electric
+D02095,Metroville,2022-10-20,2,Premium
+D02096,Capital City,2020-05-16,32,XL
+D02097,Metroville,2020-04-26,32,Standard
+D02098,Metroville,2022-05-23,7,Electric
+D02099,Metroville,2022-05-18,7,Electric
+D02100,Metroville,2021-09-20,15,Standard
+D02101,Metroville,2022-10-16,2,Standard
+D02102,Capital City,2020-10-29,26,Standard
+D02103,Capital City,2021-12-20,12,Standard
+D02104,Capital City,2022-07-14,5,Premium
+D02105,Metroville,2022-08-16,4,Standard
+D02106,Metroville,2021-08-24,16,Standard
+D02107,Capital City,2020-07-23,29,Electric
+D02108,Capital City,2020-12-03,25,Premium
+D02109,Metroville,2020-07-18,29,Standard
+D02110,Capital City,2022-03-15,9,Standard
+D02111,Capital City,2020-07-10,30,XL
+D02112,Metroville,2022-10-09,2,Standard
+D02113,Capital City,2020-03-06,34,Standard
+D02114,Capital City,2021-12-10,12,Standard
+D02115,Metroville,2021-10-28,14,Standard
+D02116,Capital City,2021-03-21,21,Standard
+D02117,Metroville,2022-10-04,2,Standard
+D02118,Metroville,2022-12-03,0,Standard
+D02119,Metroville,2022-02-23,10,Standard
+D02120,Metroville,2021-02-01,23,Standard
+D02121,Metroville,2021-08-06,17,Standard
+D02122,Metroville,2022-01-07,11,Standard
+D02123,Capital City,2021-01-14,23,Standard
+D02124,Capital City,2020-05-30,31,Standard
+D02125,Capital City,2021-11-17,13,Electric
+D02126,Metroville,2022-09-08,3,XL
+D02127,Metroville,2020-10-22,26,Standard
+D02128,Metroville,2020-11-14,25,Standard
+D02129,Metroville,2022-02-22,10,Standard
+D02130,Metroville,2021-05-14,19,Premium
+D02131,Metroville,2020-03-02,34,Standard
+D02132,Metroville,2022-08-24,4,Standard
+D02133,Metroville,2021-09-27,15,Standard
+D02134,Metroville,2021-12-21,12,Standard
+D02135,Capital City,2021-11-29,13,Standard
+D02136,Metroville,2021-02-13,22,Standard
+D02137,Capital City,2020-07-17,29,Premium
+D02138,Metroville,2022-11-11,1,Standard
+D02139,Metroville,2020-07-13,30,Standard
+D02140,Capital City,2022-08-12,4,Standard
+D02141,Metroville,2021-08-16,16,Standard
+D02142,Capital City,2020-01-15,36,Standard
+D02143,Capital City,2021-05-22,19,Standard
+D02144,Capital City,2022-02-06,10,Standard
+D02145,Metroville,2022-03-14,9,Premium
+D02146,Capital City,2021-03-22,21,Standard
+D02147,Capital City,2022-09-07,3,Premium
+D02148,Metroville,2022-05-18,7,XL
+D02149,Metroville,2022-08-21,4,Premium
+D02150,Metroville,2020-09-14,27,Standard
+D02151,Capital City,2020-02-06,35,Standard
+D02152,Metroville,2020-01-03,36,XL
+D02153,Capital City,2022-11-27,1,Standard
+D02154,Metroville,2022-01-19,11,Premium
+D02155,Metroville,2021-03-14,21,Standard
+D02156,Metroville,2020-12-04,25,Standard
+D02157,Metroville,2022-10-15,2,Premium
+D02158,Capital City,2022-03-14,9,Standard
+D02159,Metroville,2022-06-03,7,Standard
+D02160,Metroville,2021-09-10,15,Standard
+D02161,Capital City,2022-12-20,0,Standard
+D02162,Capital City,2020-11-12,26,Premium
+D02163,Metroville,2022-12-25,0,Standard
+D02164,Capital City,2022-09-04,3,XL
+D02165,Capital City,2020-10-30,26,Standard
+D02166,Capital City,2022-05-01,8,Standard
+D02167,Metroville,2021-09-29,15,Standard
+D02168,Metroville,2022-10-21,2,Premium
+D02169,Metroville,2022-08-03,5,XL
+D02170,Metroville,2022-11-22,1,Electric
+D02171,Metroville,2020-05-01,32,Premium
+D02172,Metroville,2020-11-02,26,Standard
+D02173,Capital City,2021-06-02,19,Standard
+D02174,Metroville,2020-10-31,26,Premium
+D02175,Metroville,2020-06-25,30,Standard
+D02176,Metroville,2021-09-02,16,Standard
+D02177,Capital City,2020-04-02,33,Standard
+D02178,Metroville,2021-08-07,17,Premium
+D02179,Capital City,2021-01-25,23,XL
+D02180,Metroville,2020-06-14,31,Standard
+D02181,Metroville,2020-04-25,32,Standard
+D02182,Metroville,2022-02-22,10,XL
+D02183,Capital City,2020-06-15,31,Standard
+D02184,Metroville,2020-12-25,24,Standard
+D02185,Capital City,2021-09-30,15,XL
+D02186,Metroville,2022-03-12,9,Premium
+D02187,Metroville,2021-05-24,19,Standard
+D02188,Metroville,2022-01-09,11,Standard
+D02189,Metroville,2020-10-28,26,Standard
+D02190,Metroville,2021-07-24,17,Standard
+D02191,Capital City,2022-02-07,10,Standard
+D02192,Capital City,2020-12-09,25,Standard
+D02193,Metroville,2022-11-20,1,Standard
+D02194,Metroville,2020-07-31,29,Standard
+D02195,Metroville,2021-04-27,20,XL
+D02196,Capital City,2022-03-13,9,XL
+D02197,Metroville,2022-10-06,2,Standard
+D02198,Metroville,2020-06-04,31,Premium
+D02199,Capital City,2020-09-13,28,XL
+D02200,Metroville,2021-09-24,15,Standard
+D02201,Metroville,2020-09-30,27,Standard
+D02202,Metroville,2022-04-20,8,Standard
+D02203,Metroville,2021-01-09,24,Standard
+D02204,Metroville,2021-11-01,14,XL
+D02205,Metroville,2020-09-22,27,Standard
+D02206,Capital City,2020-08-22,28,Standard
+D02207,Metroville,2020-08-29,28,XL
+D02208,Metroville,2020-06-02,31,Standard
+D02209,Metroville,2020-06-19,30,Standard
+D02210,Metroville,2020-07-06,30,Standard
+D02211,Metroville,2020-10-28,26,Electric
+D02212,Metroville,2020-05-27,31,Premium
+D02213,Metroville,2020-12-18,24,Standard
+D02214,Metroville,2021-02-09,23,XL
+D02215,Capital City,2021-03-05,22,Standard
+D02216,Metroville,2020-10-07,27,Electric
+D02217,Capital City,2022-04-04,9,Standard
+D02218,Metroville,2020-01-12,36,XL
+D02219,Metroville,2021-11-06,14,Premium
+D02220,Metroville,2021-08-16,16,Premium
+D02221,Metroville,2021-10-14,14,Standard
+D02222,Metroville,2021-12-06,13,XL
+D02223,Capital City,2021-11-29,13,XL
+D02224,Capital City,2020-12-18,24,Standard
+D02225,Metroville,2020-05-28,31,Premium
+D02226,Capital City,2020-09-17,27,Standard
+D02227,Metroville,2020-11-25,25,Standard
+D02228,Metroville,2021-04-13,20,Premium
+D02229,Capital City,2021-10-21,14,Premium
+D02230,Capital City,2020-10-19,26,Standard
+D02231,Metroville,2022-03-18,9,XL
+D02232,Metroville,2020-05-13,32,Standard
+D02233,Capital City,2022-05-24,7,XL
+D02234,Capital City,2020-06-19,30,XL
+D02235,Metroville,2021-04-26,20,Standard
+D02236,Capital City,2020-09-09,28,Premium
+D02237,Metroville,2022-09-19,3,Standard
+D02238,Capital City,2021-11-19,13,Standard
+D02239,Capital City,2021-10-14,14,Standard
+D02240,Metroville,2021-02-09,23,Premium
+D02241,Metroville,2022-02-15,10,Standard
+D02242,Capital City,2020-11-05,26,Premium
+D02243,Metroville,2020-02-07,35,Standard
+D02244,Metroville,2020-07-31,29,Standard
+D02245,Metroville,2021-12-28,12,Standard
+D02246,Metroville,2020-07-08,30,Standard
+D02247,Metroville,2022-11-14,1,Standard
+D02248,Capital City,2021-11-05,14,Electric
+D02249,Metroville,2020-11-02,26,XL
+D02250,Capital City,2022-01-14,11,Standard
+D02251,Metroville,2021-06-21,18,Standard
+D02252,Metroville,2022-02-16,10,Standard
+D02253,Capital City,2020-09-30,27,XL
+D02254,Capital City,2021-11-22,13,XL
+D02255,Capital City,2022-02-27,10,Standard
+D02256,Metroville,2020-09-11,28,Standard
+D02257,Capital City,2021-03-24,21,Standard
+D02258,Capital City,2020-05-17,31,Electric
+D02259,Metroville,2021-08-16,16,Standard
+D02260,Capital City,2022-04-09,8,Standard
+D02261,Metroville,2020-04-10,33,XL
+D02262,Capital City,2021-03-25,21,Standard
+D02263,Capital City,2020-01-11,36,Standard
+D02264,Capital City,2022-10-21,2,Premium
+D02265,Metroville,2022-06-17,6,Standard
+D02266,Capital City,2022-08-21,4,Standard
+D02267,Metroville,2022-07-10,5,Standard
+D02268,Metroville,2022-11-19,1,XL
+D02269,Metroville,2022-12-15,0,Premium
+D02270,Metroville,2022-09-15,3,XL
+D02271,Metroville,2021-02-22,22,Standard
+D02272,Capital City,2022-07-01,6,Standard
+D02273,Metroville,2021-03-31,21,Electric
+D02274,Capital City,2021-01-01,24,Premium
+D02275,Metroville,2021-11-12,13,Standard
+D02276,Metroville,2022-02-27,10,Electric
+D02277,Capital City,2021-10-22,14,Standard
+D02278,Metroville,2021-04-12,20,Standard
+D02279,Metroville,2022-08-19,4,Standard
+D02280,Capital City,2020-12-19,24,XL
+D02281,Capital City,2021-03-26,21,Premium
+D02282,Capital City,2020-07-01,30,Premium
+D02283,Metroville,2020-05-04,32,Standard
+D02284,Metroville,2021-02-07,23,Premium
+D02285,Capital City,2022-01-08,11,Standard
+D02286,Capital City,2021-05-18,19,Standard
+D02287,Capital City,2021-04-20,20,XL
+D02288,Capital City,2022-06-08,6,Electric
+D02289,Metroville,2022-02-08,10,Standard
+D02290,Metroville,2022-02-24,10,Standard
+D02291,Capital City,2022-02-01,11,Standard
+D02292,Capital City,2020-09-03,28,XL
+D02293,Metroville,2022-05-04,8,Standard
+D02294,Metroville,2020-01-07,36,Standard
+D02295,Metroville,2020-09-14,27,Standard
+D02296,Metroville,2022-02-11,10,Premium
+D02297,Capital City,2020-05-15,32,Premium
+D02298,Metroville,2021-06-05,19,Electric
+D02299,Capital City,2021-08-09,17,Electric
+D02300,Metroville,2022-05-14,7,XL
+D02301,Capital City,2022-03-07,10,Standard
+D02302,Metroville,2020-07-04,30,Premium
+D02303,Metroville,2022-06-17,6,Standard
+D02304,Metroville,2022-10-13,2,Premium
+D02305,Capital City,2022-03-30,9,Standard
+D02306,Capital City,2020-11-12,26,Standard
+D02307,Capital City,2020-05-08,32,Standard
+D02308,Capital City,2020-11-16,25,Standard
+D02309,Metroville,2020-04-30,32,Standard
+D02310,Capital City,2022-01-17,11,Electric
+D02311,Metroville,2022-11-22,1,Standard
+D02312,Capital City,2020-12-20,24,XL
+D02313,Metroville,2020-07-12,30,Standard
+D02314,Metroville,2021-12-25,12,Standard
+D02315,Metroville,2020-06-29,30,Standard
+D02316,Metroville,2022-11-22,1,Premium
+D02317,Capital City,2020-03-30,33,Electric
+D02318,Capital City,2021-01-27,23,XL
+D02319,Metroville,2021-02-05,23,Premium
+D02320,Metroville,2022-07-11,5,Premium
+D02321,Capital City,2020-12-05,25,XL
+D02322,Metroville,2022-08-13,4,XL
+D02323,Capital City,2022-01-04,12,Standard
+D02324,Capital City,2022-03-31,9,Standard
+D02325,Capital City,2021-04-27,20,Standard
+D02326,Metroville,2020-10-17,26,Premium
+D02327,Metroville,2022-03-01,10,Standard
+D02328,Metroville,2022-05-19,7,XL
+D02329,Metroville,2021-11-24,13,XL
+D02330,Capital City,2021-03-16,21,Standard
+D02331,Capital City,2021-05-13,19,Standard
+D02332,Metroville,2022-07-15,5,Standard
+D02333,Metroville,2021-01-05,24,Standard
+D02334,Metroville,2020-03-24,33,Premium
+D02335,Metroville,2022-11-30,1,Electric
+D02336,Metroville,2020-08-29,28,Standard
+D02337,Metroville,2022-01-20,11,Standard
+D02338,Capital City,2020-12-15,24,Standard
+D02339,Metroville,2021-08-02,17,Standard
+D02340,Metroville,2021-12-04,13,Standard
+D02341,Metroville,2020-02-15,35,Standard
+D02342,Metroville,2021-06-07,19,Standard
+D02343,Capital City,2020-02-01,35,Standard
+D02344,Metroville,2022-11-14,1,Standard
+D02345,Metroville,2020-04-04,33,Standard
+D02346,Metroville,2021-03-20,21,Standard
+D02347,Metroville,2022-01-25,11,XL
+D02348,Capital City,2022-09-17,3,Standard
+D02349,Metroville,2021-08-30,16,Premium
+D02350,Capital City,2021-04-14,20,Electric
+D02351,Metroville,2021-07-12,17,Standard
+D02352,Capital City,2020-06-26,30,XL
+D02353,Metroville,2020-07-29,29,Premium
+D02354,Metroville,2021-02-09,23,Standard
+D02355,Metroville,2022-10-11,2,Standard
+D02356,Capital City,2021-06-22,18,Premium
+D02357,Capital City,2020-06-07,31,Standard
+D02358,Metroville,2022-07-21,5,Standard
+D02359,Metroville,2021-02-19,22,Premium
+D02360,Metroville,2022-10-29,2,Standard
+D02361,Metroville,2022-04-09,8,Standard
+D02362,Capital City,2022-12-11,0,Standard
+D02363,Capital City,2022-11-23,1,Premium
+D02364,Metroville,2021-04-22,20,Standard
+D02365,Capital City,2020-11-13,25,Standard
+D02366,Capital City,2021-11-19,13,Standard
+D02367,Metroville,2020-05-14,32,Electric
+D02368,Metroville,2020-11-14,25,Standard
+D02369,Metroville,2020-10-28,26,Standard
+D02370,Metroville,2022-10-20,2,Standard
+D02371,Metroville,2021-06-27,18,Electric
+D02372,Metroville,2020-11-24,25,Standard
+D02373,Metroville,2021-02-13,22,Standard
+D02374,Metroville,2020-12-11,25,Standard
+D02375,Capital City,2020-02-17,34,Standard
+D02376,Metroville,2020-08-15,28,Premium
+D02377,Metroville,2020-09-20,27,XL
+D02378,Metroville,2021-01-31,23,Premium
+D02379,Capital City,2022-04-05,9,XL
+D02380,Metroville,2021-01-22,23,XL
+D02381,Metroville,2021-07-15,17,Premium
+D02382,Metroville,2021-12-02,13,Standard
+D02383,Metroville,2020-04-05,33,Standard
+D02384,Metroville,2021-06-04,19,Premium
+D02385,Metroville,2021-07-04,18,Premium
+D02386,Metroville,2022-07-15,5,Standard
+D02387,Metroville,2020-06-24,30,Standard
+D02388,Metroville,2022-07-12,5,Electric
+D02389,Metroville,2021-03-20,21,Premium
+D02390,Metroville,2020-02-24,34,XL
+D02391,Metroville,2022-05-14,7,Electric
+D02392,Metroville,2022-11-15,1,Standard
+D02393,Metroville,2022-04-13,8,Standard
+D02394,Metroville,2022-05-27,7,Standard
+D02395,Capital City,2021-08-22,16,Standard
+D02396,Metroville,2022-08-02,5,Standard
+D02397,Capital City,2022-01-04,12,Standard
+D02398,Metroville,2020-11-28,25,Standard
+D02399,Metroville,2022-08-21,4,Standard
+D02400,Capital City,2022-02-20,10,Standard
+D02401,Metroville,2021-09-03,16,Premium
+D02402,Metroville,2022-07-07,5,Premium
+D02403,Capital City,2022-07-31,5,Electric
+D02404,Metroville,2022-12-13,0,Standard
+D02405,Capital City,2022-12-05,0,Standard
+D02406,Metroville,2021-02-02,23,Standard
+D02407,Metroville,2022-08-10,4,Electric
+D02408,Capital City,2022-02-16,10,Standard
+D02409,Capital City,2020-06-02,31,Standard
+D02410,Capital City,2021-02-23,22,Standard
+D02411,Metroville,2022-05-30,7,Standard
+D02412,Metroville,2022-04-27,8,Standard
+D02413,Metroville,2022-09-08,3,Electric
+D02414,Capital City,2022-03-23,9,Premium
+D02415,Capital City,2021-11-19,13,Electric
+D02416,Capital City,2022-07-19,5,Standard
+D02417,Capital City,2021-12-17,12,Standard
+D02418,Metroville,2022-06-28,6,Standard
+D02419,Metroville,2022-06-28,6,Electric
+D02420,Capital City,2022-12-25,0,XL
+D02421,Capital City,2020-07-29,29,Standard
+D02422,Capital City,2021-09-11,15,Standard
+D02423,Metroville,2021-10-28,14,XL
+D02424,Capital City,2022-09-21,3,XL
+D02425,Metroville,2022-07-23,5,Premium
+D02426,Metroville,2020-10-31,26,Standard
+D02427,Metroville,2021-03-16,21,Standard
+D02428,Metroville,2020-01-13,36,Standard
+D02429,Capital City,2021-12-03,13,Standard
+D02430,Metroville,2020-05-02,32,Standard
+D02431,Capital City,2021-11-23,13,Electric
+D02432,Metroville,2020-03-23,33,Standard
+D02433,Metroville,2021-12-16,12,Standard
+D02434,Metroville,2020-05-16,32,Standard
+D02435,Metroville,2021-05-22,19,Premium
+D02436,Metroville,2022-08-29,4,Standard
+D02437,Capital City,2020-07-09,30,XL
+D02438,Capital City,2021-12-19,12,Standard
+D02439,Metroville,2020-02-27,34,Standard
+D02440,Metroville,2022-12-20,0,Standard
+D02441,Capital City,2022-07-23,5,Electric
+D02442,Capital City,2022-01-06,12,Premium
+D02443,Metroville,2021-11-23,13,XL
+D02444,Capital City,2021-07-11,17,Premium
+D02445,Metroville,2022-03-13,9,Standard
+D02446,Metroville,2021-12-10,12,Standard
+D02447,Capital City,2022-04-23,8,Premium
+D02448,Capital City,2022-07-30,5,Standard
+D02449,Metroville,2021-12-12,12,Standard
+D02450,Capital City,2021-12-14,12,Standard
+D02451,Capital City,2021-03-14,21,Premium
+D02452,Capital City,2021-09-22,15,Electric
+D02453,Capital City,2022-02-03,11,Standard
+D02454,Capital City,2020-10-15,26,Standard
+D02455,Metroville,2021-05-04,20,Standard
+D02456,Capital City,2020-09-09,28,Standard
+D02457,Capital City,2020-02-29,34,Premium
+D02458,Capital City,2021-05-27,19,Standard
+D02459,Capital City,2021-10-12,14,Standard
+D02460,Metroville,2020-08-11,29,Electric
+D02461,Metroville,2021-08-06,17,Standard
+D02462,Capital City,2021-01-25,23,Standard
+D02463,Metroville,2021-08-26,16,XL
+D02464,Metroville,2020-01-11,36,Standard
+D02465,Capital City,2022-12-18,0,Premium
+D02466,Capital City,2021-08-04,17,XL
+D02467,Metroville,2021-06-04,19,Premium
+D02468,Capital City,2022-02-05,11,Standard
+D02469,Capital City,2022-08-22,4,XL
+D02470,Metroville,2022-08-28,4,Premium
+D02471,Capital City,2022-08-26,4,Standard
+D02472,Capital City,2020-03-26,33,Premium
+D02473,Capital City,2021-01-27,23,Standard
+D02474,Metroville,2022-08-31,4,Standard
+D02475,Capital City,2020-08-04,29,Premium
+D02476,Metroville,2022-07-22,5,Standard
+D02477,Metroville,2020-07-02,30,Premium
+D02478,Capital City,2022-12-08,0,Standard
+D02479,Metroville,2022-07-05,6,Standard
+D02480,Metroville,2021-03-20,21,XL
+D02481,Metroville,2020-12-22,24,Standard
+D02482,Capital City,2022-08-20,4,Electric
+D02483,Capital City,2021-07-13,17,Electric
+D02484,Capital City,2021-03-19,21,Premium
+D02485,Capital City,2020-06-22,30,XL
+D02486,Capital City,2020-12-29,24,Standard
+D02487,Metroville,2020-04-23,32,Standard
+D02488,Capital City,2020-12-04,25,XL
+D02489,Capital City,2020-03-14,34,Standard
+D02490,Metroville,2021-04-27,20,Electric
+D02491,Metroville,2020-04-05,33,Standard
+D02492,Capital City,2021-03-31,21,Standard
+D02493,Metroville,2021-12-08,12,Standard
+D02494,Metroville,2021-09-21,15,Standard
+D02495,Metroville,2022-01-17,11,Standard
+D02496,Metroville,2022-10-06,2,XL
+D02497,Metroville,2021-01-09,24,Standard
+D02498,Metroville,2020-09-14,27,Standard
+D02499,Metroville,2020-05-24,31,Standard
+D02500,Capital City,2020-05-31,31,Electric
+D02501,Capital City,2021-03-08,22,Standard
+D02502,Capital City,2020-09-28,27,Standard
+D02503,Capital City,2020-05-27,31,Standard
+D02504,Capital City,2020-05-25,31,Electric
+D02505,Metroville,2020-06-19,30,Standard
+D02506,Metroville,2022-02-23,10,Standard
+D02507,Capital City,2022-03-17,9,Standard
+D02508,Metroville,2020-11-03,26,XL
+D02509,Metroville,2020-08-25,28,Standard
+D02510,Metroville,2022-11-12,1,Premium
+D02511,Metroville,2022-03-22,9,Premium
+D02512,Metroville,2021-03-24,21,Standard
+D02513,Metroville,2020-11-11,26,Electric
+D02514,Metroville,2022-03-02,10,Standard
+D02515,Capital City,2020-10-05,27,Electric
+D02516,Capital City,2020-12-14,24,Standard
+D02517,Metroville,2022-12-04,0,Standard
+D02518,Capital City,2020-07-26,29,Standard
+D02519,Metroville,2022-01-13,11,Standard
+D02520,Metroville,2022-02-26,10,Premium
+D02521,Capital City,2021-12-21,12,Premium
+D02522,Metroville,2021-10-14,14,XL
+D02523,Metroville,2022-06-21,6,Standard
+D02524,Metroville,2022-11-29,1,Standard
+D02525,Metroville,2020-10-22,26,Standard
+D02526,Capital City,2020-05-09,32,Electric
+D02527,Metroville,2022-03-01,10,Standard
+D02528,Metroville,2021-06-26,18,Standard
+D02529,Metroville,2021-02-10,23,Standard
+D02530,Capital City,2021-11-22,13,Standard
+D02531,Metroville,2022-11-18,1,XL
+D02532,Capital City,2020-03-19,33,Standard
+D02533,Metroville,2020-10-20,26,Electric
+D02534,Capital City,2022-02-11,10,Standard
+D02535,Capital City,2021-04-20,20,Standard
+D02536,Capital City,2021-06-12,18,Standard
+D02537,Metroville,2021-09-22,15,Premium
+D02538,Capital City,2021-12-08,12,Standard
+D02539,Metroville,2020-04-10,33,Standard
+D02540,Metroville,2020-03-15,34,Standard
+D02541,Capital City,2020-07-29,29,Standard
+D02542,Capital City,2020-07-24,29,XL
+D02543,Metroville,2022-02-08,10,Premium
+D02544,Capital City,2020-04-08,33,Standard
+D02545,Capital City,2022-09-01,4,Premium
+D02546,Metroville,2021-01-08,24,Standard
+D02547,Capital City,2022-05-29,7,Standard
+D02548,Capital City,2022-08-17,4,XL
+D02549,Metroville,2021-03-10,22,Standard
+D02550,Metroville,2020-04-30,32,Standard
+D02551,Capital City,2021-05-19,19,Standard
+D02552,Metroville,2022-03-18,9,Standard
+D02553,Capital City,2021-09-07,16,Standard
+D02554,Capital City,2020-02-04,35,Premium
+D02555,Capital City,2020-03-25,33,Standard
+D02556,Metroville,2021-10-15,14,Standard
+D02557,Metroville,2020-09-01,28,Premium
+D02558,Metroville,2020-04-02,33,Standard
+D02559,Capital City,2022-12-06,0,Standard
+D02560,Metroville,2021-04-11,21,Standard
+D02561,Capital City,2022-02-11,10,Standard
+D02562,Capital City,2021-02-07,23,Standard
+D02563,Metroville,2021-04-05,21,XL
+D02564,Capital City,2020-08-06,29,Standard
+D02565,Capital City,2022-04-27,8,Standard
+D02566,Capital City,2022-04-11,8,XL
+D02567,Metroville,2020-01-13,36,Electric
+D02568,Metroville,2021-06-03,19,Premium
+D02569,Capital City,2021-02-02,23,Standard
+D02570,Metroville,2020-11-28,25,Premium
+D02571,Metroville,2022-04-14,8,XL
+D02572,Metroville,2020-12-06,25,Premium
+D02573,Metroville,2020-05-07,32,Standard
+D02574,Capital City,2022-08-25,4,Premium
+D02575,Metroville,2022-11-26,1,Standard
+D02576,Capital City,2020-06-30,30,XL
+D02577,Capital City,2020-12-05,25,Premium
+D02578,Metroville,2020-08-30,28,XL
+D02579,Capital City,2021-08-15,16,Standard
+D02580,Metroville,2021-10-30,14,Standard
+D02581,Capital City,2021-03-04,22,Premium
+D02582,Capital City,2021-09-10,15,Standard
+D02583,Capital City,2021-04-01,21,XL
+D02584,Metroville,2020-05-01,32,Standard
+D02585,Capital City,2021-06-06,19,Electric
+D02586,Metroville,2021-02-03,23,Standard
+D02587,Metroville,2021-02-22,22,Standard
+D02588,Metroville,2021-11-29,13,Standard
+D02589,Capital City,2022-04-16,8,Premium
+D02590,Metroville,2021-03-13,21,XL
+D02591,Capital City,2021-09-20,15,Standard
+D02592,Metroville,2021-09-03,16,XL
+D02593,Capital City,2021-08-09,17,Standard
+D02594,Metroville,2020-04-06,33,XL
+D02595,Metroville,2020-05-14,32,XL
+D02596,Capital City,2022-11-23,1,Standard
+D02597,Metroville,2021-03-31,21,Standard
+D02598,Metroville,2020-02-20,34,Standard
+D02599,Capital City,2022-06-20,6,Standard
+D02600,Metroville,2020-11-06,26,Premium
+D02601,Capital City,2022-03-04,10,Electric
+D02602,Metroville,2021-03-14,21,Standard
+D02603,Metroville,2022-07-19,5,Standard
+D02604,Capital City,2020-01-14,36,Standard
+D02605,Capital City,2020-04-01,33,Standard
+D02606,Metroville,2020-05-29,31,XL
+D02607,Metroville,2021-07-06,18,Standard
+D02608,Metroville,2022-08-17,4,Electric
+D02609,Metroville,2020-06-25,30,Standard
+D02610,Capital City,2020-10-26,26,Premium
+D02611,Capital City,2021-12-02,13,Standard
+D02612,Capital City,2021-06-15,18,XL
+D02613,Metroville,2022-03-14,9,Standard
+D02614,Capital City,2020-12-17,24,Premium
+D02615,Capital City,2022-09-03,4,XL
+D02616,Metroville,2020-05-06,32,Standard
+D02617,Metroville,2021-08-14,16,Standard
+D02618,Metroville,2021-10-01,15,Standard
+D02619,Capital City,2022-12-26,0,Standard
+D02620,Metroville,2021-03-02,22,XL
+D02621,Capital City,2021-01-02,24,Standard
+D02622,Capital City,2020-04-18,32,Premium
+D02623,Metroville,2022-03-08,9,Standard
+D02624,Metroville,2021-06-22,18,XL
+D02625,Metroville,2021-03-17,21,Standard
+D02626,Capital City,2020-04-14,33,Standard
+D02627,Metroville,2021-03-29,21,Standard
+D02628,Metroville,2021-11-18,13,Premium
+D02629,Capital City,2021-12-12,12,Standard
+D02630,Metroville,2022-04-30,8,Standard
+D02631,Capital City,2021-05-06,20,Premium
+D02632,Metroville,2022-08-30,4,Standard
+D02633,Metroville,2021-11-28,13,Standard
+D02634,Capital City,2020-01-25,35,XL
+D02635,Capital City,2020-03-05,34,Standard
+D02636,Metroville,2021-06-02,19,Standard
+D02637,Metroville,2021-08-11,16,Standard
+D02638,Metroville,2020-11-22,25,Standard
+D02639,Metroville,2020-08-18,28,Electric
+D02640,Capital City,2022-12-10,0,Standard
+D02641,Metroville,2021-05-01,20,Standard
+D02642,Capital City,2021-07-16,17,Electric
+D02643,Capital City,2021-11-09,13,Premium
+D02644,Metroville,2022-03-12,9,Standard
+D02645,Metroville,2021-05-05,20,Premium
+D02646,Metroville,2022-11-11,1,Premium
+D02647,Capital City,2022-11-03,1,Standard
+D02648,Capital City,2020-08-21,28,Standard
+D02649,Capital City,2022-07-24,5,Electric
+D02650,Metroville,2020-12-08,25,Standard
+D02651,Metroville,2020-05-24,31,XL
+D02652,Metroville,2022-03-05,10,Electric
+D02653,Metroville,2020-07-01,30,Premium
+D02654,Capital City,2020-11-10,26,Premium
+D02655,Metroville,2022-02-14,10,Standard
+D02656,Metroville,2020-07-06,30,Standard
+D02657,Metroville,2021-03-29,21,Standard
+D02658,Capital City,2022-05-26,7,Standard
+D02659,Capital City,2021-06-20,18,Standard
+D02660,Metroville,2020-06-12,31,Standard
+D02661,Metroville,2021-06-15,18,Standard
+D02662,Capital City,2021-11-22,13,Electric
+D02663,Metroville,2020-06-17,30,Standard
+D02664,Metroville,2021-05-28,19,XL
+D02665,Capital City,2022-02-02,11,XL
+D02666,Metroville,2022-04-13,8,Standard
+D02667,Metroville,2021-03-11,22,XL
+D02668,Metroville,2022-11-28,1,Premium
+D02669,Metroville,2022-04-23,8,Standard
+D02670,Metroville,2022-09-16,3,Premium
+D02671,Metroville,2021-03-04,22,Electric
+D02672,Metroville,2020-04-29,32,Standard
+D02673,Metroville,2020-12-07,25,XL
+D02674,Metroville,2022-03-17,9,Standard
+D02675,Metroville,2021-03-27,21,Standard
+D02676,Capital City,2020-11-24,25,Standard
+D02677,Capital City,2022-11-10,1,XL
+D02678,Capital City,2020-07-26,29,Standard
+D02679,Metroville,2021-03-09,22,Electric
+D02680,Capital City,2020-10-13,27,Standard
+D02681,Metroville,2022-01-02,12,Electric
+D02682,Metroville,2021-03-04,22,XL
+D02683,Metroville,2022-10-23,2,Standard
+D02684,Metroville,2021-06-01,19,Standard
+D02685,Metroville,2021-03-09,22,XL
+D02686,Capital City,2022-10-13,2,Premium
+D02687,Capital City,2020-02-19,34,Standard
+D02688,Metroville,2022-09-09,3,Electric
+D02689,Metroville,2022-04-06,9,Standard
+D02690,Capital City,2020-03-20,33,Standard
+D02691,Capital City,2022-08-24,4,XL
+D02692,Metroville,2022-08-15,4,Standard
+D02693,Capital City,2022-03-21,9,Standard
+D02694,Metroville,2022-02-25,10,Standard
+D02695,Capital City,2022-06-06,6,XL
+D02696,Capital City,2020-01-27,35,Electric
+D02697,Capital City,2022-02-01,11,Standard
+D02698,Capital City,2021-09-07,16,Standard
+D02699,Metroville,2022-06-27,6,XL
+D02700,Metroville,2020-12-25,24,Electric
+D02701,Metroville,2020-12-31,24,XL
+D02702,Metroville,2021-02-08,23,Standard
+D02703,Metroville,2022-07-19,5,Standard
+D02704,Metroville,2020-09-08,28,Electric
+D02705,Capital City,2021-01-28,23,Standard
+D02706,Metroville,2022-08-12,4,Standard
+D02707,Metroville,2020-03-29,33,Premium
+D02708,Metroville,2020-10-03,27,XL
+D02709,Metroville,2022-08-27,4,Standard
+D02710,Capital City,2020-01-23,35,Standard
+D02711,Capital City,2020-09-01,28,Premium
+D02712,Capital City,2020-10-13,27,Standard
+D02713,Capital City,2022-02-18,10,Premium
+D02714,Metroville,2022-07-02,6,Standard
+D02715,Metroville,2021-11-03,14,Standard
+D02716,Capital City,2020-06-27,30,Standard
+D02717,Capital City,2022-02-10,10,Standard
+D02718,Metroville,2022-05-10,7,Electric
+D02719,Metroville,2021-07-16,17,Standard
+D02720,Capital City,2021-09-23,15,Electric
+D02721,Capital City,2021-08-29,16,XL
+D02722,Capital City,2022-09-08,3,Standard
+D02723,Capital City,2022-11-13,1,Electric
+D02724,Metroville,2022-09-16,3,Standard
+D02725,Metroville,2021-09-27,15,Premium
+D02726,Metroville,2020-04-26,32,Premium
+D02727,Metroville,2022-10-07,2,Premium
+D02728,Metroville,2022-10-07,2,Standard
+D02729,Capital City,2021-10-10,14,Standard
+D02730,Metroville,2021-09-12,15,Standard
+D02731,Metroville,2022-02-23,10,Standard
+D02732,Capital City,2022-03-26,9,XL
+D02733,Capital City,2020-03-12,34,Standard
+D02734,Metroville,2021-03-18,21,Standard
+D02735,Capital City,2021-03-11,22,Standard
+D02736,Capital City,2020-10-30,26,Standard
+D02737,Metroville,2020-10-13,27,Standard
+D02738,Capital City,2022-11-23,1,Standard
+D02739,Metroville,2020-02-22,34,Electric
+D02740,Capital City,2021-05-18,19,Standard
+D02741,Metroville,2020-03-29,33,Standard
+D02742,Metroville,2022-11-14,1,XL
+D02743,Metroville,2020-09-04,28,XL
+D02744,Metroville,2022-08-15,4,Standard
+D02745,Capital City,2022-10-11,2,Standard
+D02746,Capital City,2021-11-18,13,Premium
+D02747,Metroville,2022-10-20,2,Standard
+D02748,Metroville,2021-10-31,14,Electric
+D02749,Metroville,2021-09-18,15,Standard
+D02750,Metroville,2020-03-31,33,Premium
+D02751,Metroville,2022-12-18,0,Standard
+D02752,Capital City,2021-01-16,23,Standard
+D02753,Metroville,2022-07-20,5,Premium
+D02754,Capital City,2020-12-09,25,Standard
+D02755,Metroville,2020-02-24,34,Standard
+D02756,Metroville,2022-01-30,11,Premium
+D02757,Metroville,2020-10-10,27,Premium
+D02758,Metroville,2021-10-23,14,XL
+D02759,Metroville,2022-02-24,10,Electric
+D02760,Metroville,2022-12-17,0,XL
+D02761,Metroville,2021-06-04,19,Standard
+D02762,Capital City,2021-07-06,18,Standard
+D02763,Metroville,2020-11-26,25,Premium
+D02764,Capital City,2020-02-20,34,Standard
+D02765,Metroville,2020-10-28,26,Standard
+D02766,Capital City,2022-02-08,10,Standard
+D02767,Capital City,2021-11-15,13,Standard
+D02768,Metroville,2021-07-26,17,Standard
+D02769,Capital City,2021-02-15,22,Standard
+D02770,Metroville,2021-11-27,13,Standard
+D02771,Metroville,2021-03-03,22,Standard
+D02772,Metroville,2021-07-17,17,XL
+D02773,Metroville,2020-10-19,26,Standard
+D02774,Capital City,2022-05-02,8,Standard
+D02775,Capital City,2021-05-27,19,Standard
+D02776,Metroville,2020-06-21,30,Standard
+D02777,Metroville,2022-11-03,1,Standard
+D02778,Metroville,2020-07-03,30,XL
+D02779,Metroville,2020-02-18,34,Standard
+D02780,Metroville,2020-09-23,27,XL
+D02781,Metroville,2021-11-08,13,Standard
+D02782,Capital City,2021-12-19,12,Electric
+D02783,Metroville,2022-05-16,7,Electric
+D02784,Metroville,2022-10-08,2,Electric
+D02785,Capital City,2020-10-30,26,XL
+D02786,Capital City,2022-05-28,7,Standard
+D02787,Metroville,2021-11-06,14,Standard
+D02788,Metroville,2021-11-18,13,Standard
+D02789,Capital City,2021-04-30,20,Standard
+D02790,Metroville,2021-10-20,14,Standard
+D02791,Capital City,2021-04-20,20,Standard
+D02792,Metroville,2020-12-23,24,XL
+D02793,Capital City,2020-05-27,31,XL
+D02794,Capital City,2022-09-12,3,Standard
+D02795,Capital City,2021-09-18,15,Standard
+D02796,Metroville,2021-08-03,17,Standard
+D02797,Metroville,2021-10-14,14,Standard
+D02798,Metroville,2020-02-20,34,Standard
+D02799,Metroville,2022-11-14,1,Premium
+D02800,Metroville,2021-04-07,21,Electric
+D02801,Metroville,2022-12-07,0,Premium
+D02802,Capital City,2021-10-15,14,Electric
+D02803,Metroville,2021-12-27,12,Standard
+D02804,Metroville,2021-02-17,22,Standard
+D02805,Metroville,2021-11-05,14,XL
+D02806,Metroville,2020-03-14,34,Standard
+D02807,Metroville,2020-10-28,26,Standard
+D02808,Capital City,2021-03-02,22,XL
+D02809,Metroville,2020-06-08,31,Standard
+D02810,Capital City,2020-10-23,26,Standard
+D02811,Capital City,2022-01-28,11,Electric
+D02812,Metroville,2020-03-31,33,Standard
+D02813,Metroville,2020-04-23,32,Electric
+D02814,Metroville,2021-05-27,19,Standard
+D02815,Capital City,2021-08-11,16,XL
+D02816,Metroville,2022-07-26,5,Standard
+D02817,Metroville,2022-05-27,7,Standard
+D02818,Metroville,2023-01-01,0,XL
+D02819,Metroville,2022-10-30,2,Standard
+D02820,Metroville,2022-09-21,3,Standard
+D02821,Capital City,2022-12-10,0,XL
+D02822,Capital City,2021-06-19,18,Premium
+D02823,Capital City,2023-01-01,0,Standard
+D02824,Metroville,2021-04-20,20,Premium
+D02825,Metroville,2020-07-04,30,Standard
+D02826,Metroville,2020-11-11,26,Standard
+D02827,Metroville,2022-02-09,10,Premium
+D02828,Metroville,2022-06-16,6,Electric
+D02829,Metroville,2022-09-14,3,Standard
+D02830,Metroville,2020-12-09,25,Standard
+D02831,Capital City,2021-10-18,14,Standard
+D02832,Metroville,2021-12-07,13,Standard
+D02833,Metroville,2020-08-18,28,Standard
+D02834,Metroville,2020-11-29,25,Standard
+D02835,Capital City,2022-07-30,5,Premium
+D02836,Metroville,2021-06-07,19,Standard
+D02837,Capital City,2020-08-29,28,Premium
+D02838,Metroville,2022-11-17,1,Standard
+D02839,Metroville,2021-05-02,20,Standard
+D02840,Metroville,2022-10-22,2,Standard
+D02841,Capital City,2022-05-01,8,Standard
+D02842,Metroville,2021-04-23,20,Premium
+D02843,Capital City,2022-03-17,9,Standard
+D02844,Metroville,2021-07-12,17,Standard
+D02845,Metroville,2020-06-10,31,Standard
+D02846,Metroville,2021-11-08,13,Standard
+D02847,Capital City,2022-04-30,8,Standard
+D02848,Metroville,2022-10-31,2,Standard
+D02849,Capital City,2020-05-01,32,XL
+D02850,Capital City,2022-01-09,11,Electric
+D02851,Metroville,2022-12-03,0,Standard
+D02852,Metroville,2022-05-16,7,Standard
+D02853,Metroville,2022-07-09,5,Standard
+D02854,Metroville,2021-09-08,16,Standard
+D02855,Capital City,2020-06-13,31,Standard
+D02856,Metroville,2021-06-21,18,Standard
+D02857,Capital City,2021-06-27,18,Premium
+D02858,Metroville,2022-11-16,1,Standard
+D02859,Capital City,2020-04-24,32,Standard
+D02860,Capital City,2022-08-25,4,Standard
+D02861,Metroville,2022-02-22,10,XL
+D02862,Metroville,2021-10-17,14,Standard
+D02863,Metroville,2022-08-21,4,XL
+D02864,Metroville,2020-10-09,27,Standard
+D02865,Metroville,2020-11-20,25,XL
+D02866,Metroville,2022-11-01,2,Standard
+D02867,Metroville,2022-10-17,2,Premium
+D02868,Capital City,2020-03-19,33,Standard
+D02869,Capital City,2020-07-30,29,Standard
+D02870,Metroville,2020-05-23,31,XL
+D02871,Metroville,2020-09-09,28,Premium
+D02872,Capital City,2022-01-08,11,Standard
+D02873,Metroville,2022-12-05,0,XL
+D02874,Metroville,2022-10-03,3,Standard
+D02875,Metroville,2022-08-25,4,Standard
+D02876,Capital City,2021-06-05,19,Standard
+D02877,Capital City,2021-06-04,19,XL
+D02878,Metroville,2020-04-25,32,Standard
+D02879,Capital City,2021-11-12,13,Premium
+D02880,Metroville,2021-07-03,18,Standard
+D02881,Metroville,2022-11-13,1,Standard
+D02882,Metroville,2021-06-24,18,Premium
+D02883,Metroville,2021-12-12,12,Electric
+D02884,Capital City,2021-09-08,16,Standard
+D02885,Metroville,2020-06-28,30,Premium
+D02886,Capital City,2022-12-29,0,Electric
+D02887,Metroville,2022-10-03,3,Standard
+D02888,Capital City,2020-07-24,29,Standard
+D02889,Capital City,2020-04-06,33,Standard
+D02890,Capital City,2021-09-14,15,Standard
+D02891,Capital City,2022-09-27,3,Standard
+D02892,Capital City,2021-05-25,19,Standard
+D02893,Metroville,2020-12-17,24,Standard
+D02894,Capital City,2022-07-04,6,Standard
+D02895,Metroville,2020-12-10,25,Standard
+D02896,Metroville,2020-06-11,31,Standard
+D02897,Metroville,2020-05-09,32,XL
+D02898,Metroville,2022-01-31,11,Premium
+D02899,Capital City,2020-11-28,25,Electric
+D02900,Capital City,2020-12-02,25,Standard
+D02901,Capital City,2022-03-09,9,Standard
+D02902,Metroville,2021-03-16,21,Premium
+D02903,Capital City,2021-01-21,23,Standard
+D02904,Metroville,2020-09-20,27,Standard
+D02905,Metroville,2022-01-10,11,Premium
+D02906,Metroville,2020-10-01,27,Standard
+D02907,Metroville,2020-11-30,25,XL
+D02908,Capital City,2020-05-19,31,XL
+D02909,Metroville,2021-01-20,23,XL
+D02910,Metroville,2021-05-13,19,XL
+D02911,Metroville,2022-03-05,10,Standard
+D02912,Metroville,2020-03-25,33,Standard
+D02913,Metroville,2020-09-18,27,Electric
+D02914,Metroville,2020-12-25,24,Standard
+D02915,Metroville,2020-07-31,29,Standard
+D02916,Capital City,2022-07-08,5,Standard
+D02917,Capital City,2021-08-01,17,Standard
+D02918,Capital City,2022-03-26,9,Standard
+D02919,Capital City,2021-02-19,22,Standard
+D02920,Capital City,2020-12-28,24,Standard
+D02921,Metroville,2020-05-21,31,Standard
+D02922,Capital City,2020-06-22,30,Standard
+D02923,Metroville,2022-01-30,11,Premium
+D02924,Capital City,2022-10-06,2,Electric
+D02925,Metroville,2021-01-28,23,Standard
+D02926,Metroville,2020-02-29,34,Premium
+D02927,Capital City,2022-03-10,9,Electric
+D02928,Capital City,2021-02-01,23,XL
+D02929,Capital City,2022-02-09,10,Standard
+D02930,Capital City,2022-03-22,9,XL
+D02931,Metroville,2021-11-06,14,Standard
+D02932,Metroville,2020-10-12,27,XL
+D02933,Capital City,2022-07-18,5,Standard
+D02934,Capital City,2020-08-26,28,Standard
+D02935,Capital City,2022-05-17,7,XL
+D02936,Capital City,2020-03-11,34,Standard
+D02937,Capital City,2022-10-08,2,Standard
+D02938,Metroville,2020-02-02,35,Standard
+D02939,Capital City,2022-06-03,7,Electric
+D02940,Metroville,2022-12-24,0,Electric
+D02941,Metroville,2021-07-29,17,Standard
+D02942,Metroville,2022-01-29,11,Standard
+D02943,Capital City,2021-09-24,15,Premium
+D02944,Metroville,2021-02-15,22,XL
+D02945,Metroville,2020-04-05,33,Standard
+D02946,Metroville,2022-05-07,7,Premium
+D02947,Capital City,2021-03-06,22,Standard
+D02948,Metroville,2020-11-28,25,Standard
+D02949,Metroville,2020-10-15,26,Premium
+D02950,Metroville,2020-01-26,35,Premium
+D02951,Metroville,2020-10-19,26,Standard
+D02952,Metroville,2021-10-10,14,Standard
+D02953,Capital City,2021-01-12,23,Standard
+D02954,Metroville,2020-09-18,27,Premium
+D02955,Capital City,2022-05-29,7,XL
+D02956,Metroville,2021-09-26,15,Standard
+D02957,Capital City,2020-06-16,30,XL
+D02958,Metroville,2022-02-17,10,Standard
+D02959,Metroville,2021-12-12,12,Standard
+D02960,Metroville,2022-12-31,0,Standard
+D02961,Metroville,2020-03-04,34,Standard
+D02962,Metroville,2022-05-26,7,Standard
+D02963,Metroville,2020-03-23,33,Electric
+D02964,Metroville,2022-03-12,9,Premium
+D02965,Capital City,2022-08-07,4,Standard
+D02966,Metroville,2021-04-14,20,Standard
+D02967,Capital City,2021-08-24,16,Standard
+D02968,Metroville,2020-09-22,27,XL
+D02969,Capital City,2021-04-21,20,Standard
+D02970,Capital City,2021-10-30,14,Standard
+D02971,Capital City,2022-06-18,6,Standard
+D02972,Capital City,2021-12-06,13,Standard
+D02973,Metroville,2022-11-14,1,Standard
+D02974,Capital City,2022-11-29,1,Standard
+D02975,Metroville,2022-10-30,2,Standard
+D02976,Metroville,2021-05-06,20,Premium
+D02977,Capital City,2022-04-29,8,XL
+D02978,Capital City,2021-11-03,14,Standard
+D02979,Metroville,2021-12-17,12,Standard
+D02980,Capital City,2022-08-08,4,Premium
+D02981,Metroville,2022-08-17,4,Standard
+D02982,Metroville,2021-07-31,17,Standard
+D02983,Capital City,2020-06-19,30,Standard
+D02984,Capital City,2022-05-03,8,Electric
+D02985,Capital City,2020-08-20,28,Electric
+D02986,Metroville,2020-12-30,24,Electric
+D02987,Metroville,2020-09-28,27,XL
+D02988,Metroville,2022-12-11,0,Standard
+D02989,Metroville,2021-04-27,20,Standard
+D02990,Capital City,2021-01-29,23,XL
+D02991,Metroville,2020-10-29,26,Standard
+D02992,Capital City,2020-11-25,25,Standard
+D02993,Capital City,2021-11-01,14,Standard
+D02994,Capital City,2021-04-19,20,Electric
+D02995,Metroville,2020-08-07,29,Standard
+D02996,Capital City,2020-04-27,32,Electric
+D02997,Capital City,2022-10-08,2,Standard
+D02998,Metroville,2020-03-31,33,Standard
+D02999,Metroville,2022-10-29,2,Premium
+D03000,Metroville,2020-03-14,34,Premium
